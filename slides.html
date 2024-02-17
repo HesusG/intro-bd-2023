@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Círculo de Estudio</title>
+    <meta charset="utf-8">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
+
+        body {
+        font-family: 'Open Sans', sans-serif;
+        padding: 20px;
+        }
+
+        h1, h2, h3, h4 {
+        font-family: "Rubik", sans-serif;
+        }
+
+        h1 {
+        color: #07C;
+        }
+
+        h2 {
+        color: #F04E98;
+        }
+
+        h3 {
+        color: #00BFB3;
+        }
+
+        h4 {
+        color: #FEC514;
+
+        }
+
+
+        .remark-slide-content {
+          max-width: 1080px;
+          margin: 0 auto;
+          background-color: #fff;
+          background-image: url('img/bg3.jpg');
+          background-size: cover;
+          background-position: right;
+          padding: 20px;
+          border-radius: 0px;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+          display: block;
+          margin: 0 auto;
+          max-width: 80%;
+          height: auto;
+        }
+
+        .remark-code, .remark-inline-code {
+        font-family: 'Ubuntu Mono', monospace;
+        color: #1d2222;
+        background-color: rgba(0, 0, 0, 0.1) ;
+        padding: 2px 4px;
+        border-radius: 4px;
+        }
+
+      </style>
+
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Introducción a MongoDB
+
+## BEDU 2023
+
+---
+
+class: center, middle
+
+# MongoDB
+
+- Año de origen: 2009
+- Creado por: Dwight Merriman, Eliot Horowitz y Kevin Ryan
+- Objetivo: Romper con las limitaciones de las bases de datos relacionales tradicionales y ofrecer una solución moderna y flexible.
+
+---
+
+## Ventajas de MongoDB
+
+- Esquema flexible: No requiere estructuras de datos rígidas, lo que facilita cambios y adaptaciones en los datos.
+- Escalabilidad horizontal: Permite distribuir datos en múltiples nodos para manejar grandes volúmenes de información.
+- Alta disponibilidad: Proporciona replicación automática y tolerancia a fallos.
+
+- Consultas poderosas: Admite consultas ricas y flexibles, incluyendo consultas anidadas y consultas basadas en ubicación.
+
+---
+
+## Casos de uso comunes
+
+- Aplicaciones web y móviles: Almacenamiento de perfiles de usuarios, registros de actividad, contenido generado por el usuario, etc.
+- Análisis de datos: Procesamiento de grandes volúmenes de datos y generación de informes.
+- Internet de las cosas (IoT): Captura y análisis de datos de sensores y dispositivos conectados.
+- Sistemas de geolocalización: Aplicaciones basadas en la ubicación, seguimiento de flotas, recomendación de lugares, etc.
+
+---
+
+## Servidor de MongoDB
+
+- El servidor de MongoDB es el núcleo del sistema y se encarga de la gestión de datos.
+- Proporciona un entorno de ejecución para almacenar, acceder y manipular documentos.
+- Admite múltiples operaciones, como inserción, consulta, actualización y eliminación de datos.
+
+---
+
+## Base de datos en MongoDB
+
+- Una base de datos en MongoDB es un contenedor lógico de colecciones de documentos.
+- Puede haber múltiples bases de datos en un solo servidor de MongoDB.
+- Las bases de datos se utilizan para organizar y gestionar conjuntos de información relacionados.
+
+---
+
+## Colecciones en MongoDB
+
+- Una colección en MongoDB es un grupo de documentos relacionados entre sí.
+- No impone una estructura rígida en los documentos almacenados en una colección.
+- Las colecciones permiten el acceso eficiente a los documentos y son análogas a las tablas en las bases de datos relacionales.
+
+---
+
+# Nodos en MongoDB
+
+- Un nodo es una instancia individual de MongoDB que forma parte de un clúster.
+- Cada nodo puede ejecutarse en un servidor físico o virtual y contiene una instancia de MongoDB.
+
+---
+
+## Clúster en MongoDB
+
+- Un clúster es un conjunto de nodos interconectados que trabajan juntos para almacenar y procesar datos.
+- Los clústeres en MongoDB se dividen en dos tipos: clústeres de réplica y clústeres de fragmentación (sharding).
+
+---
+
+## Implicaciones de los Nodos y Clústeres en MongoDB
+
+- **Alta disponibilidad**: Los clústeres de réplica brindan redundancia y tolerancia a fallos. Si un nodo falla, otros nodos pueden asumir su función.
+- **Escalabilidad horizontal**: Los clústeres de fragmentación permiten distribuir los datos en múltiples nodos, lo que permite el crecimiento y la gestión eficiente de grandes volúmenes de datos.
+- **Balanceo de carga**: Los clústeres distribuyen la carga de trabajo entre los nodos, evitando que un nodo individual se convierta en un cuello de botella y mejorando el rendimiento general del sistema.
+
+---
+## Esquema en MongoDB
+
+- En MongoDB, un esquema es opcional.
+- Los esquemas definen la estructura de los documentos en una colección, especificando los campos y sus tipos de datos.
+- Los esquemas en MongoDB son flexibles y permiten la evolución de los documentos a medida que cambian los requisitos de la aplicación.
+
+---
+
+## Tipos de Datos en MongoDB
+
+- **String**: Cadena de texto.
+- **Integer**: Número entero.
+- **Double**: Número entero.
+- **Boolean**: Valor booleano (true o false).
+- **Date**: Fecha ISO.
+- **TimeStamp**: Fecha y Hora en formato TimeStamp.
+- **Array**: Arreglo o lista de valores.
+- **Object**: Objeto o documento anidado.
+- **Null**: Valor nulo.
+- **Binary**: Datos binarios.
+- **Geospatial**: Datos geoespaciales (puntos, líneas, polígonos, etc.).
+
+---
+## Comparación de Esquemas
+
+- **Bases de datos relacionales**: Utilizan esquemas rígidos y predefinidos. Las tablas y columnas deben seguir una estructura definida en el momento de la creación de la base de datos.
+- **MongoDB**: Utiliza esquemas flexibles y dinámicos. Los documentos en una colección pueden tener diferentes estructuras y no están sujetos a un esquema predefinido.
+
+---
+## Esquemas Dinámicos en MongoDB
+
+- Los esquemas dinámicos en MongoDB permiten una mayor flexibilidad y agilidad en el desarrollo de aplicaciones.
+- No se requiere un esquema estricto antes de almacenar datos. Los documentos pueden evolucionar a medida que las necesidades de la aplicación cambian.
+- Esto facilita el desarrollo ágil, ya que permite cambios en la estructura de datos sin la necesidad de realizar modificaciones en el esquema subyacente.
+
+---
+## ¿Qué son los Índices en MongoDB?
+
+- Los índices en MongoDB son estructuras que mejoran la eficiencia y velocidad de las consultas.
+- Permiten un acceso rápido a los datos al crear una referencia ordenada a los documentos en una colección.
+
+---
+## Importancia de los Índices
+
+- Los índices son fundamentales para la optimización de consultas en MongoDB.
+- Reducen el tiempo necesario para ejecutar consultas, mejorando el rendimiento general del sistema.
+- Ayudan a evitar el escaneo completo de una colección al permitir búsquedas más precisas y eficientes.
+
+---
+## Tipos de Índices en MongoDB
+
+- **Índices Simples**: Se crean en un solo campo para acelerar la búsqueda basada en ese campo.
+- **Índices Compuestos**: Se crean en múltiples campos para mejorar la eficiencia de las consultas que involucran varios campos.
+- **Índices Geoespaciales**: Diseñados específicamente para consultas y operaciones espaciales, como búsqueda de puntos cercanos, trazado de polígonos, etc.
+
+---
+## Índices Geoespaciales en MongoDB
+
+- Los índices geoespaciales permiten trabajar con datos basados en la ubicación geográfica.
+- Se utilizan para realizar consultas espaciales, como búsqueda de lugares cercanos, trazado de polígonos y cálculo de distancias.
+- MongoDB ofrece índices geoespaciales para soportar consultas y operaciones eficientes con datos geográficos.
+
+---
+
+
+
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+
+  </body>
+</html>

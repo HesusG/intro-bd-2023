@@ -1,0 +1,580 @@
+﻿Brand,Store Number,Store Name,Ownership Type,Street Address,City,State/Province,Country,Postcode,Phone Number,Timezone,GMT Timezone,Longitude,Latitude
+Starbucks,25944-239829,City Express Aguascalientes,Licensed,"Blvd J Ma. Chavez No 1919,  San Pedro",Aguascalientes,AGU,MX,20280,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.29,21.84
+Starbucks,17065-178804,Plaza Las Palmas,Licensed,"Av. Universidad No. 2229-A, Col. San José del Arenal",Aguascalientes,AGU,MX,20130,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.31,21.91
+Starbucks,32131-114607,Altaria,Licensed,2 Rancho Las Trojes de Alonso,Aguascalientes,AGU,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.29,21.92
+Starbucks,32750-137046,Asuncion,Licensed,Blvd. Jose Maria Chavez No. 1531,Aguascalientes,AGU,MX,20234,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.29,21.86
+Starbucks,32110-119599,Colosio,Licensed,"101 Prolongacion Ignacio Zaragoza, Fraccionamiento Valle de las Trojes",Aguascalientes,AGU,MX,20115,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.3,21.92
+Starbucks,16701-173887,Macroplaza Ensenada,Licensed,"Pedro Loyola No 612 Locales A-02, 03, 04, Col. Carlos Pacheco",Ensenada,BCN,MX,22832,,GMT-08:00 America/Tijuana,GMT-08:00,-116.6,31.84
+Starbucks,38265-114605,Ensenada Malecon,Licensed,678 Boulevard Costero Lazaro Cardenas,Ensenada,BCN,MX,22800,,GMT-08:00 America/Tijuana,GMT-08:00,-116.63,31.86
+Starbucks,32418-132854,Lienzo,Licensed,Calzada Manuel Gomez Morin 799,Mexicali,BCN,MX,21259,,GMT-08:00 America/Tijuana,GMT-08:00,-115.41,32.65
+Starbucks,21909-216025,Mexicali Plaza del Valle,Licensed,"Blvd. Lazaro Cardenas n.1801, Zona Industrial",Mexicali,BCN,MX,21090,,GMT-08:00 America/Tijuana,GMT-08:00,-115.46,32.62
+Starbucks,16196-166687,Mexicali Centinela,Licensed,"Calz. Lopez Mateos esq. Calle Alfarero, Lote s/n Seccion A Porcion Sur Manzana 7",Mexicali,BCN,MX,44556,,GMT-08:00 America/Tijuana,GMT-08:00,-115.51,32.62
+Starbucks,32645-136562,Galerias del Valle,Licensed,"Prolongacion Lazaro Cardenas, Carretera a Tijuana, Local 51",Mexicali,BCN,MX,21259,,GMT-08:00 America/Tijuana,GMT-08:00,-115.51,32.62
+Starbucks,32108-119584,Plaza Centenario,Licensed,"Benito Juarez Boulevard y Lazario, Cardenas sin, Fracc. Residencias",Mexicali,BCN,MX,21330,,GMT-08:00 America/Tijuana,GMT-08:00,-115.44,32.63
+Starbucks,21191-209751,Paseo Chapultepec Tijuana,Licensed,"Lote 0001 Mza F Blvd Agua Caliente 10387, Chapultepec, Carretera Aeropuerto",Tijuana,BCN,MX,22420,,GMT-08:00 America/Tijuana,GMT-08:00,-117.01,32.51
+Starbucks,15298-159705,Tijuana Airport Inside,Licensed,"S/N Col. Nueva Tijuana, Delegacion Meza de Otay",Tijuana,BCN,MX,22435,,GMT-08:00 America/Tijuana,GMT-08:00,-116.98,32.54
+Starbucks,31869-114908,Paseo de los Heroes,Licensed,"Paseo de los Heroes , Zona Rio",Tijuana,BCN,MX,22320,,GMT-08:00 America/Tijuana,GMT-08:00,-117.01,32.52
+Starbucks,32149-114975,Playas de Tijuana,Licensed,1302 Paseo del Pedregal,Tijuana,BCN,MX,22700,,GMT-08:00 America/Tijuana,GMT-08:00,-117.12,32.53
+Starbucks,20439-205549,Aeropuerto Tijuana II,Licensed,Carretera Aeropuerto s/n Col. Nueva,TIJUANA,BCN,MX,22435,,GMT-08:00 America/Tijuana,GMT-08:00,-116.98,32.54
+Starbucks,32133-113704,Tijuana Salinas,Licensed,Boulevard Salinas,Tijuana,BCN,MX,,,GMT-08:00 America/Tijuana,GMT-08:00,-117.01,32.51
+Starbucks,28015-249492,Apto. Tijuana Exterior,Licensed,"Carretera Aeropuerto s/n nueva, Tijuana",Tijuana,BCN,MX,22435,,GMT-08:00 America/Tijuana,GMT-08:00,-116.95,32.54
+Starbucks,31931-113585,Plaza Rio Tijuana,Licensed,"Paseo de los Heroes Zona Rio, Local 19",Tijuana,BCN,MX,,,GMT-08:00 America/Tijuana,GMT-08:00,-117.02,32.53
+Starbucks,29033-252215,Camino Real Tijuana,Licensed,"Paseo de Los Heroes #9902, Colonia Zona Rio",Tijuana,BCN,MX,22010,,GMT-08:00 America/Tijuana,GMT-08:00,-117.03,32.53
+Starbucks,15296-159704,Macroplaza Tijuana,Licensed,"Blvd CorredorTijuana Rosarito, No. 21015",Tijuana,BCN,MX,22710,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.51
+Starbucks,29669-254834,Hipodromo Caliente,Licensed,"Calle Hipodromo #12027-0, Col. Hipodromo Aguacaliente",Tijuana,BCN,MX,22024,,GMT-08:00 America/Tijuana,GMT-08:00,-117,32.51
+Starbucks,17483-182364,Marina Cabo San Lucas,Licensed,"Boulevard Marina Lote 7-D, Col La Marina",Cabo San Lucas,BCS,MX,23453,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.91,22.89
+Starbucks,17257-180645,Plaza La Paz,Licensed,"Blvd. Pino Payas y Carreterra La Paz, Cd. Constitucion Local L100",La Paz,BCS,MX,23090,,GMT-07:00 America/Hermosillo,GMT-07:00,-110.34,24.12
+Starbucks,19085-198605,La Paz Soriana,Licensed,"Calzada Forjadores de Sudcalifornia, N. 38, 39 y 40, Ex- Base Aérea",La Paz,BCS,MX,23050,,GMT-07:00 America/Hermosillo,GMT-07:00,-110.31,24.13
+Starbucks,1898-141665,Marina Los Cabos,Licensed,Blvd. Paseo de la Marina,Los Cabos,BCS,MX,23410,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.91,22.89
+Starbucks,2103-141452,CM Los Cabos,Licensed,Blvd. Nauricio Castro no. 4650 Col.,Los Cabos,BCS,MX,23400,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.71,23.04
+Starbucks,18205-188644,Aeropuerto Los Cabos  II,Licensed,"Carretera Transpenínsular, s/n km 43.5, Municipio San Jose del Cabo, B.C.S.",Los Cabos,BCS,MX,23420,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.71,23.13
+Starbucks,9035-151831,Aeropuerto Los Cabos 1,Licensed,Carretera Transpeninsular s/n km 43.5,Los Cabos,BCS,MX,23420,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.71,23.13
+Starbucks,25757-242315,Plaza Peninsula Cabo,Licensed,"Carr. Transpeninsular km 29.5, Colonia La Jolla",San Jose del Cabo,BCS,MX,23406,,GMT-07:00 America/Hermosillo,GMT-07:00,-109.71,23.04
+Starbucks,20432-205546,Galerias Campeche,Licensed,"Av Pedro Sainz de Barranda s/n  esq., Av. Darsena",CAMPECHE,CAM,MX,24014,,GMT-06:00 America/Mexico_City,GMT-06:00,-90.52,19.86
+Starbucks,22225-218845,Zentralia Ciudad del Carmen,Licensed,"Av. Luis Donaldo Colosio # 58, Col. Limonar",Ciudad del Carmen,CAM,MX,24180,,GMT-06:00 America/Mexico_City,GMT-06:00,-91.81,18.65
+Starbucks,32607-126546,Periferico de la Juventud,Licensed,Blvd de la Juventud #5905,Chihuahua,CHH,MX,31238,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.12,28.62
+Starbucks,18492-188944,Citadela Chihuahua,Licensed,"Av. Periferico de la Juventud #5700, Desarrollo El Saucito",Chihuahua,CHH,MX,3114,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.13,28.66
+Starbucks,32622-136956,Plaza del Sol - Chihuahua,Licensed,Plaza del Sol Mall,Chihuahua,CHH,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.4,20.65
+Starbucks,32756-138645,Blvd Ortiz Mena Chihuahua,Licensed,BLVD Antonio Ortiz Mena #1800 Esq Con Av,Chihuahua,CHH,MX,31270,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.1,28.64
+Starbucks,49224-267549,Chihuahua Centro,Licensed,"Av. Independencia # 401, 102 y 104 de la calle Victoria.",Chihuahua,CHH,MX,31000,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.08,28.64
+Starbucks,28828-251444,3 Torres Cd. Juarez,Licensed,"Av. Francisco Villarreal Torres #11204, Colonia Partido Senecu",Ciudad Juarez,CHH,MX,32459,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.38,31.71
+Starbucks,32646-126547,Misiones,Licensed,"Blbd Teofilo Borunda #8681, Esq Paseo de la Victoria",Ciudad Juarez,CHH,MX,32618,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.41,31.69
+Starbucks,32552-121206,Paseo Triunfo de la Republica,Licensed,4630 Avenue Paseo del Triunfo de la Repu,Ciudad Juarez,CHH,MX,61010,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.44,31.74
+Starbucks,49764-271068,Aeropuerto Cd. Juarez,Licensed,"Carr. Panamericana Km 18.5 S/N, Aeropuerto Chihuahua",Ciudad Juarez,CHH,MX,32121,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.44,31.64
+Starbucks,32278-121207,Ciudad Juarez Campestre,Licensed,7331-A Manuel Gomez Morin Boulevard,Ciudad Juarez,CHH,MX,32540,,GMT-06:00 America/Mexico_City,GMT-06:00,-106.42,31.72
+Starbucks,15264-159105,Tuxtla Belisario Dominguez,Licensed,"Belisario Dominguez No. 2, 535 Local-01, Col. Santa Elena",Tuxtla Gutierrez,CHP,MX,20060,,GMT-06:00 America/Mexico_City,GMT-06:00,-93.14,16.75
+Starbucks,21304-210707,Tuxtla II DT,Licensed,Blvd. Juan Pablo II S/N,Tuxtla Gutierrez,CHP,MX,29040,,GMT-06:00 America/Mexico_City,GMT-06:00,-93.08,16.75
+Starbucks,28795-251213,Monclova,Licensed,Blvd. Harold Rio Pape,Monclova,COA,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.42,26.93
+Starbucks,47816-259924,Galerias Saltillo,Licensed,Boulevard Nazario Ortiz Garza No. 2345,Saltillo,COA,MX,25279,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.98,25.46
+Starbucks,31894-111406,Saltillo La Quinta Inn,Licensed,Periferico Luis Echeverria #1416,Saltillo,COA,MX,23,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.98,25.44
+Starbucks,25504-236933,Plaza Carranza,Licensed,"Blvd. Venustiano Carranza, Municipio de Saltillo",Saltillo,COA,MX,25240,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.99,25.45
+Starbucks,32150-119576,Independencia Boulevard,Licensed,Independencia Boulevard,Torreon,COA,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.44,25.55
+Starbucks,32164-119622,Torreon Cimaco,Licensed,"Indepenpencia Boulevard #1300, Col Navarro",Torreon,COA,MX,27010,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.41,25.58
+Starbucks,21277-209762,Plaza 505 Torreon,Licensed,"Autopista Torreon San Pedro #505, Fracc. Santa Barbara",Torreon,COA,MX,27105,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,25.58
+Starbucks,32421-119577,La Rosita,Licensed,"Paseo de la Rosita S/N Col Campestre la, Rosita C.P. 27250",Torreon,COA,MX,27250,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,25.52
+Starbucks,1363-139187,Colima Sevilla,Licensed,"Av. Felipe Sevilla del Rio No. 351, Reyes, Col. Jardines Vista Hermosa",Colima,COL,MX,28010,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.71,19.25
+Starbucks,32753-139193,Manzanillo Blvd Madrid,Licensed,"Blvd. Miguel de la Madrid No. 8714, Fracc. 01",Manzanillo,COL,MX,28867,,GMT-06:00 America/Mexico_City,GMT-06:00,-104.33,19.1
+Starbucks,22854-225484,STIM,Licensed,"de la Industria Militar 1296,, Lomas de Chamizal, Cuajimalpa",Ciudad de Mexico,DIF,MX,5129,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.39
+Starbucks,20484-206205,EMERSON,Licensed,"Homero n.503, Col. Chapultepec Morales, Del. Miguel Hidalgo",DF,DIF,MX,11570,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.44
+Starbucks,19758-198607,Narvarte,Licensed,"Palanque s/n, Col. Narvarte",DF,DIF,MX,1030,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.4
+Starbucks,23728-232709,Pasaje San Jeronimo,Licensed,AV SAN JERONIMO 819 COL SAN JERONIMO,DISTRITO FEDERAL,DIF,MX,10200,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.32
+Starbucks,23997-234584,RENATO LEDUC,Licensed,RENATO LEDUC 224 COL TORIELLO GUERRA,DISTRITO FEDERAL,DIF,MX,14050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.3
+Starbucks,20438-205552,Melchor Ocampo,Licensed,"Melchor Ocampo n.453 Col. Anzures, Del. Miguel Hidalgo",MEXICO,DIF,MX,11590,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.42
+Starbucks,18278-188665,Forum Buenavista,Licensed,"Norte Mosqueta 259, Esq. Insurgentes N, Delegacion Cuauhtemoc",Mexico,DIF,MX,6350,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.13,19.49
+Starbucks,20394-205054,Pabellon Cuemanco,Licensed,"Canaverales #222, Col. Granjas Coapa, Del. Tlalpan",Mexico,DIF,MX,14330,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.11,19.29
+Starbucks,23627-224864,Via Vallejo,Licensed,"Calzada Vallejo numero 1090, Colonia Industrial Vallejo",Mexico,DIF,MX,2300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.49
+Starbucks,29168-252829,Torre Virreyes,Licensed,"Pedregal #24, Colonia Molino del Rey",Mexico,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.33
+Starbucks,28751-250945,Madero II,Licensed,"Av. Madero esquina Bolivar, Bolivar Centro Historico Cd Mex",Mexico,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.44
+Starbucks,22783-224824,Picacho,Licensed,"Carretera Picacho Ajusco n.557, Col. Lomas de Padierna",Mexico,DIF,MX,14240,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.28
+Starbucks,22780-224829,Monte Pelvoux,Licensed,"Monte Pelvoux No.210, Lomas Chapultepec",Mexico,DIF,MX,11000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,29815-224825,Calzada de Tlalpan,Licensed,"Calzada de Tlalpan 564, Col Tlalpan Nativitas",Mexico,DIF,MX,3500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.34
+Starbucks,21983-216624,SPA,Licensed,"Rio Lerma n. 303, Col. Cuauhtemoc, Del. Cuauhtemoc",Mexico,DIF,MX,6500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.43
+Starbucks,47987-260826,Miyana,Licensed,"Moliere esquina Cervantes Saavedra, Moliere esq C. Saavedra Col Granada",Mexico,DIF,MX,11510,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.44
+Starbucks,16464-171705,Hospital Angeles Interlomas,Licensed,"Vialidad de la Barranca No. 22, Col. Valle de las Palmas",Mexico,DIF,MX,52763,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.39
+Starbucks,22784-224830,Torre Polanco,Licensed,"Mariano Escobedo No.476, Anzures",Mexico,DIF,MX,11590,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.43
+Starbucks,25665-241989,Oasis II - PA,Licensed,"Avenida Universidad numero 1778, Col. Romero de Terreros, Del. Coyoacan",Mexico,DIF,MX,4310,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.35
+Starbucks,22776-224835,Patio Claveria,Licensed,"Egipto #142 Col. Claveria, Delegacion Azcapotzalco",Mexico,DIF,MX,2080,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.46
+Starbucks,25656-241988,Antara II,Licensed,"Av. Ejercito Nacional 843, Local H 103, Col. Granada Delegación Miguel Hidalgo",Mexico,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.44
+Starbucks,21180-209747,Bosque de Aragon,Licensed,Av 510 n.340 Pueblo Sn Juan de Aragon,Mexico,DIF,MX,7950,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.47
+Starbucks,22542-222084,Plaza Rio San Joaquin,Licensed,"Calzada Legaria N 549, Col. Diez de Abril",Mexico,DIF,MX,11250,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.45
+Starbucks,26554-244510,BBVA,Licensed,Lago Alberto No. 320 Colonia Anahuac,Mexico,DIF,MX,11320,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.44
+Starbucks,26376-237921,Obrero Mundial,Licensed,"Obrero Mundial 296 Narvarte, Benito Juarez",Mexico,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.4
+Starbucks,20396-205105,Roma Sur,Licensed,"Monterrey n.330, Col., Roma Sur District",Mexico,DIF,MX,6760,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.41
+Starbucks,27838-248909,Punto Polanco,Licensed,"Lago Alberto esquina Mariano Escobedo, Mariano Escobedo",Mexico,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.02,19.3
+Starbucks,20449-205548,SPA,Licensed,"Av. Félix Cuevas n.274, Col. Del Valle",MEXICO,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.37
+Starbucks,26552-244509,Corporativo BBVA Bancomer Reforma,Licensed,"Av Paseo de la Reforma 510, Colonia Juarez",Mexico,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.42
+Starbucks,20395-205053,SPA,Licensed,"Manzanas n. 40 Col Del Valle, Del. Benito Juarez",Mexico,DIF,MX,3200,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.37
+Starbucks,24878-224826,Tlalpan Hospitales,Licensed,Tlalpan 4731 Col. Toriello Guerra,Mexico,DIF,MX,14050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.29
+Starbucks,27199-246913,AICM T1 S21 and 22,Licensed,Aeropuerto Intenacional de la Cd. Mex,Mexico,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-97.88,22.3
+Starbucks,49944-271824,PARQUE DELTA III,Licensed,"Av. Cuauhtemoc 462, Col. Narvarte, Del. Benito Juarez",MEXICO,DIF,MX,3020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.4
+Starbucks,22786-224844,Patio Lomas Estrella,Licensed,"Av. Tlahuac #4409, Col. Lomas Estrella",Mexico,DIF,MX,9890,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.09,19.32
+Starbucks,20233-204145,Torre Origami,Licensed,"Av. Insurgentes Sur n.1458, Col., Local 2, Actipan District",Mexico,DIF,MX,3230,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.37
+Starbucks,23596-224846,Parque Toreo,Licensed,"Blvd. Adolfo Lopez Mateos, Esquina Rio San Joaquin",Mexico,DIF,MX,53398,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.39
+Starbucks,30770-101701,Superama Santa Fe,Licensed,Av. Tamaulipas No. 3000,Mexico City,DIF,MX,5340,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,32789-136168,Parques Polanco,Licensed,Avenue Mariano Escobedo y Lago Alberto,Mexico City,DIF,MX,11320,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.44
+Starbucks,38128-95330,Condesa II,Licensed,"Michoacan #139, esq. Cuautla, Col. Condesa",Mexico City,DIF,MX,6140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,32107-105790,Lomas Verdes II,Licensed,"Super Avenida Lomas Verdes 1200, Fracc.",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.51
+Starbucks,27493-247853,Moliere 222 II,Licensed,"Moliere # 222 Col. Los Morales, Del. Miguel Hidalgo",Mexico City,DIF,MX,11540,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,31096-103471,Mazaryk Spencer,Licensed,Av. Presidente Mazaryk #39,Mexico City,DIF,MX,11570,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.43
+Starbucks,6183-149885,Homero,Licensed,Av. Homero & E. Alan Poe,Mexico City,DIF,MX,3103,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.44
+Starbucks,18631-192944,Torre del Angel Florencia,Licensed,"Avenida Paseo de la Reforma, No. 342 Local 4  Col. Cuauhtemoc",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,19701-198126,Garden Santa Fe,Licensed,"Dominguez, Colonia Centro de Cuidad, Santa Fe, Delegacion Alvaro Obregon",Mexico City,DIF,MX,23420,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.39
+Starbucks,8019-149986,Park Plaza I,Licensed,"Javier Barros Sierra, s/n Col Centro de Ciudad, Santa Fe",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,16372-169210,Prisma Insurgentes,Licensed,"Av. Insurgentes Sur No. 1647, Col. San Jose Insurgentes",Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.36
+Starbucks,32109-116006,Londres,Licensed,"107 Londres, Col. Juarez, Del. Cuauhtemoc",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,38111-77723,Masaryk Pasaje Polanco,Licensed,"Presidente Masaryk #360 Col. Polanco, 19 Col. Polanco c.p., Del. Miguel Hidalg",Mexico City,DIF,MX,11560,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,47393-247386,Pabellon Azcapotzalco,Licensed,"Nextengo 71, Azcapotzalco",Mexico City,DIF,MX,2070,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.47
+Starbucks,31069-102272,Arboledas,Licensed,Av. Jinetes No. 84,Mexico City,DIF,MX,52950,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.56
+Starbucks,15648-163804,Balbuena,Licensed,"Fray Servando Teresa de Mier No. 964, Jardin Balbuena, Venustiano Carranza",Mexico City,DIF,MX,15900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.42
+Starbucks,22010-217185,Montecitos WTC,Licensed,"Montecito 38, Colonia Napoles, Delegacion Benito Juarez",Mexico City,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.39
+Starbucks,38104-83600,Olivar de los Padres,Licensed,"Av. Toluca #1086, Col.Olivar de los Padres, Alvaro Obregon",Mexico City,DIF,MX,1780,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.24,19.34
+Starbucks,15504-162365,Plaza Oriente,Licensed,"Canal de Tezontle 1520, Iztapalapa",Mexico City,DIF,MX,9020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.38
+Starbucks,19757-189365,Patio Universidad,Licensed,"Av. Popocatepetl 540 esquina con av., Universidad 2038, Col. Xoco Delg. Coyoac",Mexico City,DIF,MX,3330,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.36
+Starbucks,38130-95642,Zona Rosa,Licensed,"Londres #127, Local #38, Plaza La Rosa",Mexico City,DIF,MX,6000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,19185-188668,Division del Norte,Licensed,"Av. Division del Norte No. 1746, Col. Portales",Mexico City,DIF,MX,3300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.37
+Starbucks,31818-115826,Amberes,Licensed,"1A, Amberes Col. Juarez, Del. Cuauhtemoc",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,17576-183526,Juarez 32,Licensed,"Juarez 30 Col Centro, Delegacion Cuauhtemoc",Mexico City,DIF,MX,6000,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.22,19.05
+Starbucks,17662-184007,Corp. Coyoacan,Licensed,"Avenida Coyoacan No. 1622, Local 101, Colonia Del Valle",Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.37
+Starbucks,16167-168865,Eduardo Molina,Licensed,"Calzada San Juan De Aragon, No. Ext. 516, Col D M Nacional, Municipio O Delegacion",Mexico City,DIF,MX,7090,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.47
+Starbucks,31366-104230,Embassy Suites Hotel,Licensed,Av. Paseo de La Reforma # 69,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.43
+Starbucks,30881-101703,Circuito Ingenieros,Licensed,"Circuito Ingenieros # 11, Locales A y B,",Mexico City,DIF,MX,53100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.51
+Starbucks,3096-137364,Pabellon Polanco,Licensed,"Av. Ejército Nacional 980, local K12, Col. Chapultepec Morales, Central Dist",Mexico City,DIF,MX,11510,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.44
+Starbucks,1934-142186,Plaza La Hacienda,Licensed,Prol Division del Nte 4344,Mexico City,DIF,MX,14300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.13,19.3
+Starbucks,15496-162006,Torre WTC,Licensed,Montecitos No 38 N3 Local 03 Col Napoles,Mexico City,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.39
+Starbucks,3092-132452,Castorena,Licensed,"Jose Ma Castorena 320, Col. Villas Cuajimalpa",Mexico City,DIF,MX,5000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.29,19.36
+Starbucks,15845-161527,Jolie Place,Licensed,"Av. De las Fuentes 425, local 6A",Mexico City,DIF,MX,1900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.32
+Starbucks,16376-170365,Santa Monica -,Licensed,"Av. Juarez # 15, esq Convento de Acolman, Santa Monica",Mexico City,DIF,MX,55420,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.53
+Starbucks,32209-116506,Parque Tezontle 2,Licensed,1512 Avenue Canal de Tezontle,Mexico City,DIF,MX,9020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.38
+Starbucks,38148-98213,Centro Comercial Santa Fe,Licensed,"Av. Vasco de Quiroga 3800, Local 255, Col. Antigua Mina La Totolapa",Mexico City,DIF,MX,5109,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,38112-87302,Insurgentes Sur Parroquia,Licensed,"Insurgentes Sur #1405, Col. Insurgentes Mixcoac, Benito Juarez",Mexico City,DIF,MX,3910,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.37
+Starbucks,16895-175444,Satelite Centro Civico,Licensed,"Circuito Medicos # 45,  Ciudad Satelite",Mexico City,DIF,MX,53100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.51
+Starbucks,32439-126544,La Salle,Licensed,47 Benjamin Franklin Hipodromo Condesa,Mexico City,DIF,MX,6140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.41
+Starbucks,27498-247854,Corporativo Banamex,Licensed,"Act. Roberto Medellin 800 col Santa Fe, Del. Alvaro Obregon",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,18491-189985,Alfonso Reyes,Licensed,"Alfonso Reyes 218 Colonia Hipodromo, Condesa, Delegacion Benito Juarez",Mexico City,DIF,MX,3920,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,8087-151205,Jurica,Licensed,"Av 5 de Febrero 9200 Col Fraccionamiento, Zona Industrial Benito Juarez",Mexico City,DIF,MX,76100,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.43,20.65
+Starbucks,3900-153724,Medica Sur Tlalpan,Licensed,"150, Col. Toriello",Mexico City,DIF,MX,14050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.3
+Starbucks,18885-196404,5 de Mayo,Licensed,"Av. 5 de mayo #19 Col. Centro, Delegacion Cuauhtemoc",Mexico City,DIF,MX,6000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.43
+Starbucks,2077-144665,Eugenia,Licensed,"Eugenia #1,062",Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.39
+Starbucks,13013-149989,Mexfund Pedregal,Licensed,"Periferico sur # 4132, Col. Jardines Del Pedregal",Mexico City,DIF,MX,19000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.31
+Starbucks,38109-87304,WTC,Licensed,"Insurgentes Sur #729, local b Col. Napoles, Del. Benito Juarez",Mexico City,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.39
+Starbucks,38105-79342,Bosques Horizontes,Licensed,"Paseo de los Laureles #458 Col, Bosques de las Lomas",Mexico City,DIF,MX,5120,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.39
+Starbucks,30844-100240,Plaza Delta,Licensed,"Av. Cuauhtemoc esq. Obrero Mundial, Col. Narvarte",Mexico City,DIF,MX,3000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.4
+Starbucks,31143-103466,Los Atrios Antara Polanco,Licensed,Ejercito Nacional #843,Mexico City,DIF,MX,11510,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.44
+Starbucks,27807-248698,Plaza Central,Licensed,"Avenida Canal Río Churubusco No. 1635, Colonia Central de Abastos",Mexico City,DIF,MX,9410,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.38
+Starbucks,7192-150924,Torre Mexicana,Licensed,"Xola 535 esquina Mier y Pesado, Col. Del Valle",Mexico City,DIF,MX,11560,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.4
+Starbucks,26860-119552,Moliere 222,Licensed,"Moliere # 222 Col. Los Morales, Del. Miguel Hidalgo",Mexico City,DIF,MX,11540,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,31105-101583,Nuevo Leon,Licensed,Av. Nuevo Leon # 188,Mexico City,DIF,MX,6100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,38118-93434,Corporativo Polanco,Licensed,"Jaime Balmes #8, Local 4, Colonia Los Morales Polanco,",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.44
+Starbucks,31621-109367,Centro Comercial Santa Fe 2,Licensed,"Av. Vasco de Quiroga 3800, Local 155",Mexico City,DIF,MX,5109,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,38132-96707,Insurgentes La Joya,Licensed,"Insurgentes Sur No. 4184 p.b. loc 1, Col. La Joya",Mexico City,DIF,MX,14000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.28
+Starbucks,31349-106597,Horacio,Licensed,326 Horacio Plaza Cantera,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.43
+Starbucks,32277-131206,MEX - Mexico City Airport T2 PA INT,Licensed,"Capitan Carlos Leon s/n Colonia Penon, de los Banos",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,18293-182304,Angeles Acoxpa,Licensed,"Av. Acoxpa No.430 Col. Ex Hacienda Coapa, Delegacion Tlalpan",Mexico City,DIF,MX,2430,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.3
+Starbucks,13075-156045,Centro Medico ABC Santa Fe,Licensed,"Av Carlos Graef Fernandez #154 Local P.B, Col. Cuajimalpa",Mexico City,DIF,MX,5000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,16375-170366,Plaza Luis Cabrera,Licensed,"Plaza Luis Cabrera # 5 Local 1, Col Roma",Mexico City,DIF,MX,6700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.42
+Starbucks,31696-111205,ITESM Mexico City Campus,Licensed,Carr. Lago de Guadalupe Km. 3.5 Col. Mar,Mexico City,DIF,MX,52926,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.59
+Starbucks,17835-185524,Portal Churbusco,Licensed,"Av. Rio Churubusco No.583 Local B10, Col. Sector Popular",Mexico City,DIF,MX,9060,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.12,19.37
+Starbucks,38139-97349,Plaza Inn,Licensed,"Av. Insurgentes Sur #1971, Col. Guadalupe Inn",Mexico City,DIF,MX,1020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.35
+Starbucks,38107-84663,Pedregal,Licensed,"Crater 709,  Col. Pedregal de San Angel",Mexico City,DIF,MX,1900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.32
+Starbucks,17350-181186,Uruguay,Licensed,"Republica de Urugual No. 56, Col. Centro, Delegacion Cuauhtemoc",Mexico City,DIF,MX,6000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.43
+Starbucks,30771-101280,MEX - Aeropuerto Int Dufry,Licensed,"Av. Capitan Carlos Leon s/n,",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,29337-245329,Patio Revolucion,Licensed,"Av Revolucion No. 1817, Colonia San Angel, Del. Alvaro Obregon",Mexico City,DIF,MX,1000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.34
+Starbucks,3097-139076,Galerias Atizapan,Licensed,"Circuito Jimenez Cantu, Atizapan de, Zaragoza",Mexico City,DIF,MX,52977,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.55
+Starbucks,31436-99448,Miguel Angel Quevedo 2,Licensed,Av. Miguel A. De Quevedo  # 624,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.34
+Starbucks,38108-84662,Campos Eliseos,Licensed,"Galileo no. 8 local 3 esq. Campos Eliseo, Miguel Hidalgo",Mexico City,DIF,MX,11590,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.43
+Starbucks,38122-84664,Santa Fe,Licensed,"Guillermo Gonzalez Camarena No. 2000, esq. Vasco de Quirogam Centro de Cd.",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,47285-257724,Salon Ejecutivo Mexicana T1,Licensed,"Aeropuerto Intenacional de la Cd. Mex, Aeropuerto Intenacional de la Cd. Mex",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.05,19.45
+Starbucks,16638-173889,Torre Diamante,Licensed,"Av. Vasco de Quiroga No. 3900, Col. Santa Fe Cuajimalpa, Del Cuajimalpa",Mexico City,DIF,MX,5348,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,32205-123484,Jesus del Monte,Licensed,Fraccion 7 y 8 del Lote 20,Mexico City,DIF,MX,52772,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.3,19.38
+Starbucks,31088-102451,Palmas,Licensed,Av. de Las Palmas 765,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.43
+Starbucks,21493-212466,Patio Santa Fe,Licensed,"Prolongacion Paseo de la Reforma 400, Pena Blanca Santa Fe, Alvaro Obregon",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.38
+Starbucks,17986-184008,Zentralia Churubusco,Licensed,"Avenida Rio Churubusco 1072, Colonia Nueva Rosita, Local No. 1, 2 y 3",Mexico City,DIF,MX,9420,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.38
+Starbucks,31012-101547,MEX - Aeropuerto Nacional Sala B,Licensed,"Av. Capitan Carlos Leon s/n, Sala B, Loc",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,12792-155005,Reforma Rio Marne,Licensed,"Av. Passeo de La Reforma #195, Local 1, esq. Rio Marne",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,17971-182865,SPA,Licensed,"Av. Santa Fe No. 495 PB Local 2, Col. Cruz Manca",Mexico City,DIF,MX,5349,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,38129-96087,Plaza Santa Teresa,Licensed,"Adolfo Lopez Mateos 4020, Col. Jardines del Pedregal",Mexico City,DIF,MX,1900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.31
+Starbucks,18633-193344,Madero,Licensed,"Madero #42 Col. Centro, Centro Historico district",Mexico City,DIF,MX,6000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.43
+Starbucks,32189-108438,222 Reforma,Licensed,222 Avenue Reforma,Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,18399-190304,SPA,Licensed,"Av. Vasco de Quiroga #3800, Local 1,000, Santa Fe, Deleg. Cuajimalpa",Mexico City,DIF,MX,5109,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,31548-108187,Obelisco,Licensed,247 Campo Eliseos,Mexico City,DIF,MX,11570,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,12997-149988,Carso Polanco I,Licensed,"Lago Zurich s/n esq. Cervantes Saaverda, Col Ampliacion Granada Delegacion Miguel",Mexico City,DIF,MX,11529,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.44
+Starbucks,30816-100246,Altavista-Mexico,Licensed,Av. Altavista # 147 Local 1,Mexico City,DIF,MX,1060,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.35
+Starbucks,7082-149985,Valle Dorado,Licensed,"3130 Col. Valle Dorado, Blvd. Manuel Avita Camacho, Tlanepantla",Mexico City,DIF,MX,54020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.55
+Starbucks,19478-198127,City Center Esmeralda,Licensed,"Via. Dr. Jimenez Cantu, Bosque Esmeralda, Atizapan de Zaragosa, Edo. Mex",Mexico City,DIF,MX,44279,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.28
+Starbucks,32755-136945,Division del Norte,Licensed,Division del Norte Ave 2590,Mexico City,DIF,MX,4120,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.35
+Starbucks,38134-96693,Pilares,Licensed,"Calle Pilares & Calle Pestalozzi, Coloni",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.38
+Starbucks,30786-100221,MEX - Aeropuerto Cenca,Licensed,"Av. Capitan Carlos Leon s/n, Sala E, Loc",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,17909-182805,Plaza America,Licensed,"Benito Juarez No. 17 Local E, Colonia ExHacienda de Coapa",Mexico City,DIF,MX,4980,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.31
+Starbucks,15130-157804,Ejercito Nacional,Licensed,"Av. Ejercito Nacional # 579 P.B. 01, Col. Granada",Mexico City,DIF,MX,11520,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.44
+Starbucks,38124-94690,San Jeronimo,Licensed,"Av. Periferico Sur #, Centro Comercial San Jeronimo",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.33
+Starbucks,38103-79344,Las Aguilas,Licensed,"Calz. De los Leones #145, Locales 19 y 20 Col. Las Aguilas",Mexico City,DIF,MX,1710,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.36
+Starbucks,3095-135295,Amsterdam,Licensed,180 Sonora Avenue,Mexico City,DIF,MX,6170,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,31622-108284,Tecnoparque,Licensed,Avenide Eje 5 Norte 990,Mexico City,DIF,MX,2230,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.5
+Starbucks,31546-107881,Irrigacion,Licensed,397 Avenue Miguel de Cervantes Saavedra,Mexico City,DIF,MX,11500,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.96,19.22
+Starbucks,16193-169208,Torre Siglum,Licensed,"Av. Insurgentes Sur No 1898 Local A, Col. Florida",Mexico City,DIF,MX,1030,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.35
+Starbucks,38151-98039,MEX - Aeropuerto Sala Bravo,Licensed,"Av. Capitan Carlos Leon s/n, Sala B",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.44
+Starbucks,32151-116505,Parque Tezontle 1,Licensed,1512 Avenue Canal de Tezontle,Mexico City,DIF,MX,9020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.38
+Starbucks,31393-103353,Parque Lindavista 2,Licensed,"Colectores 13 No. 280, Col. Magdalena de las Salinas",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.13,19.49
+Starbucks,16463-171706,Hospital Angeles Metropolitano,Licensed,"Tlacotalpan No. 59, Col. Roma Sur",Mexico City,DIF,MX,6760,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,1889-105282,Torre Inverlat,Licensed,Manuel Avila Camacho 1,Mexico City,DIF,MX,1100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.43
+Starbucks,31391-103352,Parque Lindavista 1,Licensed,"Colectores 13 No. 280, Col. Magdalena de las Salinas",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.13,19.49
+Starbucks,38131-95614,Tepepan,Licensed,"Periferico Sur No. 4991 local 1, Col. Tepepan",Mexico City,DIF,MX,14610,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.28
+Starbucks,32704-119567,Izcalli Mega,Licensed,"Manzana C, # 24 B Av. 1 de Mayo, Col. Ce",Mexico City,DIF,MX,54740,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.65
+Starbucks,32207-116504,222 Reforma 2,Licensed,"222 Avenue Reforma, Col. Juarez. C.P.",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,16604-173485,City Walk,Licensed,"Av. Santa Fe  482;  Col. Cruz Manca;, Del. Cuajimpala",Mexico City,DIF,MX,5300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.36
+Starbucks,38136-96879,Punta Norte,Licensed,Autopista Chamapa-Lecheria S/N,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.6
+Starbucks,31256-102301,Echegaray,Licensed,Hacienda de Echegaray,Mexico City,DIF,MX,53120,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.49
+Starbucks,17351-181185,El Rosario,Licensed,"Av. Del Rosario No. 1025, Col El Rosario",Mexico City,DIF,MX,2430,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.5
+Starbucks,31795-106354,Miguel Angel Quevedo 3,Licensed,Av. Miguel Angel de Quevedo #287,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.35
+Starbucks,30651-96717,Plaza Lilas,Licensed,"Bosque de Lilas #92, Local,Centro Comerc",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.39
+Starbucks,18384-188964,Insurgentes WTC -,Licensed,"Montecito 38, Colonia Napoles District",Mexico City,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.39
+Starbucks,17133-179228,Chapultepec Reforma,Licensed,"Seccion 1RA,  Bosque de Chapultepec, Acceso Gratuitas",Mexico City,DIF,MX,11850,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.42
+Starbucks,38114-247765,Super Plaza - Miramontes,Licensed,"Av. Canal de Miramontes No. 2091, Col. Los Girasoles",Mexico City,DIF,MX,4920,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.12,19.31
+Starbucks,16182-169204,Medica Sur II,Licensed,"Puente de Piedra No. 150, Col. Torielo Guerra",Mexico City,DIF,MX,14050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.3
+Starbucks,38152-99047,Insurgentes Relox,Licensed,"Av. Insurgentes Sur #2374., Col. Chimalistac",Mexico City,DIF,MX,4340,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.34
+Starbucks,8164-151464,Americas Ecatepec,Licensed,"Av. Central esq. Av. 1 de Mayo, Col. Jardines de Morelos, Ecatepec",Mexico City,DIF,MX,55070,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.38,20.7
+Starbucks,15125-157824,C.C. Perisur,Licensed,"Anillo Periferico No. 4690 Local 192, Ampliacion Pedregal de San Angel",Mexico City,DIF,MX,4500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.3
+Starbucks,22517-221626,Xola,Licensed,Xola No.1159 Col. Narvarte,Mexico City,DIF,MX,3020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.4
+Starbucks,21486-212465,One o One,Licensed,"Juan Salvador Agraz 61, Col. Santa Fe, Cuajimalpa",Mexico City,DIF,MX,5300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,15442-161530,C.M Mixcoac,Licensed,"Revolucion 780, Col. Mixcoac",Mexico City,DIF,MX,3730,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.38
+Starbucks,3950-146784,Gabriel Mancera,Licensed,"Av. Gabriel Mancera #1,357, Local 1",Mexico City,DIF,MX,53290,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.37
+Starbucks,31141-104320,Metropoli Patriotismo,Licensed,Av. Patriotismo #229,Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.4
+Starbucks,31092-101631,Santa Fe IMAX,Licensed,Lateral Autopista Mexico-Toluca #1235,Mexico City,DIF,MX,54054,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,2145-139071,Samara I,Licensed,"Ave Santa Fe No 94 Col Zedec Santa Fe, Office Tower",Mexico City,DIF,MX,11560,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,16244-169211,Jardines del Pedregal,Licensed,"Av. San Jeronimo No. 240, Col. Jardines del Pedregal",Mexico City,DIF,MX,1900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.34
+Starbucks,30985-103242,Universidad Anahuac,Licensed,"Av. Lomas Anahuac, s/n., Lomas Anahuac,  Huixquilucan",Mexico City,DIF,MX,52786,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.4
+Starbucks,17910-182804,SPA,Licensed,"Calzada Taxquena No. 1475, Colonia Campestre Churubusco",Mexico City,DIF,MX,4200,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.13,19.34
+Starbucks,15668-164269,HSBC Corporate,Licensed,"Av Paseo de la Reforma 347 esq Rio Tiber, Colonia Juarez, Delegacion Cuauhtemoc",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,5068-146785,Felix Cuevas,Licensed,"Felix Cuevas #6, esq Insurgentes Sur",Mexico City,DIF,MX,3200,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.37
+Starbucks,38123-93700,Alameda,Licensed,"Av. Juarez No. 76, Col. Centro",Mexico City,DIF,MX,6050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.44
+Starbucks,14875-156046,Coapa Chedraui,Licensed,"Calzada del Hueso # 670, Local 32-35, Col. Los Robles",Mexico City,DIF,MX,4780,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.12,19.3
+Starbucks,32276-131205,MEX - Mexico City Airport T2 Lleg,Licensed,"Capitan Carlos Leon s/n Colonia Penon, de los Banos",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,38106-81520,Prado Norte,Licensed,"Prado Norte #324 Local 2 manzana 16, lote 15 Col. Lomas de Chapultepec",Mexico City,DIF,MX,11000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.43
+Starbucks,16367-170664,Bolsa Mexicana de Valores,Licensed,"Av. Paseo de La reforma # 255, Co. Cuauhtemoc",Mexico City,DIF,MX,6500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,38140-97645,Centro Coyoacan,Licensed,"Av. Coyoacan #2000, Local 201-A, Colonia",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.36
+Starbucks,7147-139074,Ampliacion Santa Fe III,Licensed,"Av. Vasco de Quiroga 3800 loc. 255, Col Antigua Mina di Totolapa",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.36
+Starbucks,1345-136176,Cuidad Jardin,Licensed,Avenue Bordo de Xochiaca,Mexico City,DIF,MX,57310,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.02,19.42
+Starbucks,15124-157805,San Jose Insurgentes,Licensed,Damas # 130 Col. San Jose Insurgentes,Mexico City,DIF,MX,3900,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.36
+Starbucks,32275-131204,MEX - Mexico City Airport T2 PA NAC,Licensed,"Capitan Carlos Leon s/n Colonia Penon, de los Banos",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,16544-172784,Medica Sur Lomas,Licensed,Acueducto Rio Hondo # 20 Col. Virreyes,Mexico City,DIF,MX,11000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.42
+Starbucks,9134-91203,Parque Duraznos,Licensed,"Bosque de Duraznos, No. 39, Col Bosques de las Lomas, Miguel Hidalgo",Mexico City,DIF,MX,11700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.24,19.4
+Starbucks,23632-230826,Universidad 767,Licensed,"Av. Universidad No. 757 Col. Del Valle, Delegacion Benito Juarez",Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.38
+Starbucks,31740-113664,Fiesta Americana Reforma,Licensed,"80 Avenue Pase de la Reforma, P.B. Col. Juarez",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.43
+Starbucks,38149-98017,Bellavista,Licensed,"Av. De las Fuentes #1-A,",Mexico City,DIF,MX,54054,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.52
+Starbucks,9034-151829,Galerias Coapa (Dead),Licensed,"Calzada Del Hueso No. 519, Col Residensial Acoxpa. Local 189",Mexico City,DIF,MX,14390,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.12,19.3
+Starbucks,32017-109624,Tlacoquermecatl,Licensed,191 Tlacoquermecatl Col. Del Valle,Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.38
+Starbucks,15379-160564,Durango,Licensed,"Durango # 205, Local 01 Col. Roma C.P",Mexico City,DIF,MX,6700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.42
+Starbucks,14972-156626,Reforma Varsovia,Licensed,"Av. Paseo de la Reforma # 374, Local 2",Mexico City,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,38113-92780,Insurgentes Juan Pablo,Licensed,"Insurgentes Sur #1743, Pb Col. Napoles, Del. Benito Juarez",Mexico City,DIF,MX,1020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.36
+Starbucks,29931-256008,Plaza Delta II,Licensed,"Av. Cuauhtemoc 462, Parque Delta",Mexico City,DIF,MX,3020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.4
+Starbucks,38116-91204,Santa Teresa,Licensed,"Camino a Santa Teresa #13, Col: Heroes de Padierna,",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.31
+Starbucks,30843-102302,Gran Sur,Licensed,"Av. del Iman # 151, Local  98",Mexico City,DIF,MX,4739,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.31
+Starbucks,30880-101742,Vista Hermosa,Licensed,"Av. Camino al Olivo No. 22, Col. Lomas de Vistahermosa",Mexico City,DIF,MX,5100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.37
+Starbucks,20486-206206,Pennsylvania,Licensed,"Pennsylvania #143 Col. Napoles, Delegacion Benito Juarez",Mexico City,DIF,MX,3810,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.39
+Starbucks,38101-78563,Reforma Angel Sheraton,Licensed,"Av. Paseo de la Reforma no. 325, local 2, 3, 4 y 5 Col. Cuauhtemoc c.p.",Mexico City,DIF,MX,6500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,16784-175825,Hospital Angeles Pedregal I,Licensed,"Camino a Santa Teresa 1055, Col Heroes de Padierna",Mexico City,DIF,MX,10700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.31
+Starbucks,24272-84666,Plaza Universidad,Licensed,Av Universidad 1000  Sta Cruz B juarez,Mexico City,DIF,MX,3310,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.37
+Starbucks,15323-160025,Torres Lindavista,Licensed,"Av Othon de Mendizabal No 343, Loc Z-100-B",Mexico City,DIF,MX,7700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.51
+Starbucks,38156-99633,Tamaulipas,Licensed,"Av. Tamaulipas No. 55, loc. 101, Col. Condesa",Mexico City,DIF,MX,6140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.41
+Starbucks,31068-103407,Magnocentro,Licensed,"Blvrd. Magnocentro, Lote 2, Mz 1",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.41
+Starbucks,2107-141448,Via Acoxpa,Licensed,"Calzada Acoxpa No. 438 Col. Prado Coapa, Deleg. Coyoacan",Mexico City,DIF,MX,14300,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.3
+Starbucks,16297-150024,Samara II,Licensed,"Ave Santa Fe No. 94, Col Zedec Santa Fe",Mexico City,DIF,MX,11560,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,23814-233184,Tuxpan 53,Licensed,"Tuxpan #53 esquina Tehuantepec, Col. Roma",Mexico City,DIF,MX,6760,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.41
+Starbucks,38150-98182,Santa Fe 2,Licensed,"Guillermo Gonzalez Camarena 1500, Loc 1, Centro de Cd. Santa Fe",Mexico City,DIF,MX,1210,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.37
+Starbucks,18397-189968,Pestalozzi,Licensed,"Pestalozzi No. 1166 Local 1, Del Valle Centro District",Mexico City,DIF,MX,3100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.38
+Starbucks,38110-87307,Torre Mayor,Licensed,"Av. Paseo de la Reforma, no. 505 local PB-11",Mexico City,DIF,MX,6500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.42
+Starbucks,32063-117724,San Mateo Shopping Center,Licensed,201 Avenue Adolfo Lopez Mateos,Mexico City,DIF,MX,53140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.48
+Starbucks,31665-107352,Lomas Plaza,Licensed,"Blvd. Manuel Avila Camacho #50 y 66, Locales B02 y B03",Mexico City,DIF,MX,6110,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.43
+Starbucks,30842-101546,MEX - Aeropuerto Internacional II,Licensed,"Av. Capitan Carlos Leon s/n, Sala E, Col",Mexico City,DIF,MX,15620,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.42
+Starbucks,9123-152091,Torre Caballito,Licensed,"Paseo de la Reforma 10, Col. Tabacalera, Del. Cuauhtemoc",Mexico City,DIF,MX,6030,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.44
+Starbucks,38155-99133,16 de Septiembre,Licensed,"16 de septiembre # 79 , Local 102",Mexico City,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.33
+Starbucks,1836-154026,Marina Nacional,Licensed,"Bahia San Hipolito 43 Locales 1 y 2, Colonia Anahuac",Mexico City,DIF,MX,11320,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.44
+Starbucks,25569-241535,Tezoquipa,Licensed,"Calzada de Tlalpan 4998 Col. La Joya, Del. Tlalpan",Mexico D F,DIF,MX,14090,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.28
+Starbucks,24431-237917,Plateros,Licensed,A Lopez Mateos 1701 Plateros A Obregón,Mexico D F,DIF,MX,1480,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.37
+Starbucks,25800-242472,Grand San Jeronimo,Licensed,"Calle Iglesia 270 Esq. Av Rio Magdalena, Col. Tizapan de San Angel Del A. Obregon",Mexico D F,DIF,MX,1090,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.34
+Starbucks,28418-250664,Tlalpan Nativitas,Licensed,"Calz de Tlalpan 1037 Col Americas Unidas, Del. Benito Juarez",Mexico D.F,DIF,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.38
+Starbucks,21968-216024,Carracci,Licensed,"Carracci n. 3 esq. Av. Patriotismo, Col. San Juan Mixcoac",Mexico DF,DIF,MX,3730,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.41
+Starbucks,25073-239891,Capital Reforma II,Licensed,"Reforma 250 esq. Niza Col Cuauhtemoc, Reforma 250 esq. Niza Col Cuauhtemoc",Mexico DF,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,47813-259929,Copilco 20,Licensed,"Enriquez Urena 20 Col Los Reyes Coyoacan, Del. Coyoacan",Mexico DF,DIF,MX,4330,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.34
+Starbucks,47812-259930,Plaza Exhibimex,Licensed,"Calle 10 N-132 San Pedro de los Pinos, Del Alvaro Obregón",Mexico DF,DIF,MX,1280,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.39
+Starbucks,25070-239864,Galerias Insurgentes II,Licensed,"Av Insurgentes sur esquina Parroquia, Parroquia 194, Colonia del Valle.",Mexico DF,DIF,MX,3230,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.37
+Starbucks,25071-239866,Forum Buenavista II,Licensed,"Eje 1 Nte Mosqueta 259 Buenavista, Eje 1 Nte Mosqueta 259 Buenavista",Mexico DF,DIF,MX,6350,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,19.45
+Starbucks,25069-239865,"Shiller, Masaryk 111",Licensed,"Shiller esquina Masaryk 111, Polanco, Shiller esquina Masaryk 111, Polanco",Mexico DF,DIF,MX,11550,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,19.43
+Starbucks,27379-247387,Axomiatla II,Licensed,"Calz. Las Aguilas 1953 Col. Axomiatla, Del. Alvaro Obregon",Mexico DF,DIF,MX,11520,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.34
+Starbucks,27378-247385,Plaza Basica,Licensed,"Av. Leyes de Reforma esq. Baratillo, Col. Ejidos del Moral Del. Iztapalapa",Mexico DF,DIF,MX,9040,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.09,19.38
+Starbucks,47148-256886,Reforma 180,Licensed,"Paseo de la Reforma 180, Reforma esquina Insurgentes",México DF,DIF,MX,6600,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.16,19.43
+Starbucks,26722-245127,Paseo Durango,Licensed,Blvd. Felipe Pescador #1401,Durango,DUR,MX,34060,,GMT-06:00 America/Mexico_City,GMT-06:00,-104.66,24.04
+Starbucks,22408-220664,Gomez Palacio,Licensed,Av.Miguel Aleman No.625 Esq.Versalles,Gomez Palacio,DUR,MX,35080,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.5,25.55
+Starbucks,32319-119558,Fiesta American Condesa,Licensed,Avenue Costera Miguel Aleman 97,Acapulco,GRO,MX,39690,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.87,16.86
+Starbucks,27761-248668,Fragata Costa Azul,Licensed,Costera Miguel Aleman esq. Fragata Acap,ACAPULCO,GRO,MX,39559,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.91,16.85
+Starbucks,31097-99809,Galerias Diana Plaza Emporio,Licensed,Costera Miguel Aleman S/N,Acapulco,GRO,MX,3330,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.87,16.86
+Starbucks,31095-102268,Costa Azul,Licensed,"Av. Costera Miguel Aleman # 2148, Fracc. Costal Azul",Acapulco,GRO,MX,39850,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.85,16.84
+Starbucks,32165-251215,Acapulco Diamante - Relocation,Licensed,"52 Boulevard de las Naciones, Locales 28, 29 y 30",Acapulco,GRO,MX,39907,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.81,16.79
+Starbucks,1372-119592,La Isla Acapulco,Licensed,"18 Boulevard de las Naciones, Lote 1. Mza. 5 Local 66.",Acapulco,GRO,MX,39890,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.78,16.77
+Starbucks,28753-250944,Galerias Acapulco,Licensed,"Av. Costera Miguel Aleman, Av.Wilfrido Massieu",Acapulco,GRO,MX,39670,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.87,16.86
+Starbucks,47823-259925,Galerias Celaya,Licensed,Col. Las Compuertas Del Campestre,Celaya,GUA,MX,38080,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.78,20.53
+Starbucks,32553-132450,Lopez Mateos 1,Licensed,"Blvd Adolfo Lopez Mateos 1025 Loc 5, Renacimiento",Celaya,GUA,MX,38044,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.83,20.52
+Starbucks,21189-209754,Celaya Campestre,Licensed,"Blvd Lopez Mateos #1245 Ote., Col. Centro",Celaya,GUA,MX,38000,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.79,20.52
+Starbucks,1918-141464,Guanajuato Centro,Licensed,Jardin de la Union S/N,Guanajuato,GUA,MX,36000,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.25,21.02
+Starbucks,32417-132449,Irapuato 1,Licensed,Boulevard Villas de Irapuato 1362,Irapuato,GUA,MX,30670,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.38,20.68
+Starbucks,47296-254833,Carretera - Irapuato,Licensed,"Carretera Federal León  Querétaro, Libramiento Norponiente #7866",Irapuato,GUA,MX,36822,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.31,20.71
+Starbucks,27202-246921,Plaza Cibeles,Licensed,"Blvd. Villas de Irapuato, CC Cibeles",Irapuato,GUA,MX,36643,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.37,20.68
+Starbucks,24198-236545,Plaza Mayor II,Licensed,"Blvd. Juan Alonso de Torres #2002, Col. Valle del Campestre",Leon,GUA,MX,37150,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.7,21.15
+Starbucks,14907-77726,Mariano Escobedo,Licensed,"Blv Mariano Escobedo No. 2502 y 2504, Local 7 y 8, Col. Leon Moderno",Leon,GUA,MX,37480,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.66,21.11
+Starbucks,28013-249485,Galerias Las Torres,Licensed,"Blvd. Juan Alonso de Torres #1315, San Jose del Consuelo",Leon,GUA,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.6,21.13
+Starbucks,31871-117785,Plaza Zentro,Licensed,"1115 Paseo del Moral Avenue, Local 1 y 1A, Col. Valle del Campestre",Leon,GUA,MX,37150,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.69,21.15
+Starbucks,47665-256884,Puerta Bajio,Licensed,"Blvd. Paseo de los Insurgentes #3356, Col. San Jose de Las Piletas",Leon,GUA,MX,37128,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.73,21.17
+Starbucks,31893-114606,Plaza Mayor Leon,Licensed,"2002 Juan Alonso de Torres Boulevard, Col. Valle del Campestre, C.P.",Leon,GUA,MX,37150,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.7,21.15
+Starbucks,31930-112544,Las Torres,Licensed,1401 Boulevard Juan Alonso de Torres Pte,Leon,GUA,MX,37161,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.7,21.15
+Starbucks,21193-209749,Altacia,Licensed,"Blvd. Aeropuerto #104 Cerrito de Jerez, Leon Sur",Leon,GUA,MX,37530,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.63,21.09
+Starbucks,16718-173861,Galerias Leon,Licensed,"Blvd. Adolfo Lopez Mateos No. 1702, Col. Parque Manzanares",Leon,GUA,MX,37500,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.66,21.12
+Starbucks,32031-118524,Centro Max,Licensed,"2510 Adolfo Lopez Mateos Boulevard, Local 27, 28, 29 y kiosco 5 , Col. Mega",Leon,GUA,MX,37530,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.64,21.1
+Starbucks,17984-187105,Outlet Leon,Licensed,"Blvd. Aeropuerto #843 local 77-B, Col. Predio Santa Anita",Leon,GUA,MX,37295,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.61,21.09
+Starbucks,47051-256607,Salamanca Power Town,Licensed,"Camino a Mancera No. 214,, Fracc. Residecial Las Glorias",Salamanca,GUA,MX,36766,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.22,20.58
+Starbucks,32416-132444,San Miguel Centro,Licensed,3 Canal,San Miguel de Allende,GUA,MX,37700,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.74,20.91
+Starbucks,23513-230827,One Silao,Licensed,"C. Leon-Silao km 153, Col. Sn Antonio",Siloa,GUA,MX,36270,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.46,20.97
+Starbucks,3021-142844,Galerias Pachuca,Licensed,"Camino Real de la Plata no. 100 y 102, Loc. 125, col. zona plateada",Pachuca,HID,MX,42080,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.77,20.1
+Starbucks,3019-140931,Pachuca San Javier,Licensed,Everado Marquwz 1100,Pachuca,HID,MX,42060,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.75,20.11
+Starbucks,26301-244259,Urban Center La Rioja,Licensed,"Av. Lopez Mateos Sur S/N, Tlajomulco",Guadalajara,JAL,MX,45645,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.67
+Starbucks,24644-238588,Apto Gdl Llegadas Nacionales,Licensed,C. Guadalajara Chapala Km 17,Guadalajara,JAL,MX,45659,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.29,20.53
+Starbucks,38143-97351,Americas Guadalajara,Licensed,Av. Americas # 346,Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.37,20.68
+Starbucks,38137-96291,Providencia Guadalajara,Licensed,"Ave. Providencia #2951, Col Providencia",Guadalajara,JAL,MX,44639,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.7
+Starbucks,30763-99077,GDL - Aeropuerto Guadalajara PB,Licensed,"Carretera Guadalajara-Chapala, Km. 17.5,",Guadalajara,JAL,MX,45659,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.3,20.52
+Starbucks,25669-241970,Ciudad Granjas,Licensed,"Calzada Norte #7195 Col. Ciudad Granja, Zapopan",Guadalajara,JAL,MX,45010,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.45,20.68
+Starbucks,32208-108347,Cordilleras,Licensed,Avenue de la Patria,Guadalajara,JAL,MX,44500,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.66
+Starbucks,31508-103853,Las Fuentes,Licensed,Av. Lopez Mateos s/n,Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.62
+Starbucks,30957-101702,Valle Real Guadalajara,Licensed,"Prolongacion Avenida Santa Margarita, #4860, Subancla 3,",Guadalajara,JAL,MX,44540,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.44,20.73
+Starbucks,31566-108338,Jardines Vallarta,Licensed,Juan Palomar & Arias # 123 Local 1,Guadalajara,JAL,MX,45027,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.43,20.68
+Starbucks,47824-259926,Technology Park,Licensed,Carretra a Nogales No. 4760,Guadalajara,JAL,MX,45010,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.49,20.72
+Starbucks,32536-119565,Tecos,Licensed,4275 Pablo Neruda & Patria Avenue,Guadalajara,JAL,MX,45129,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.41,20.69
+Starbucks,32210-119602,Iteso,Licensed,8650 Camino al Iteso,Guadalajara,JAL,MX,45601,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.61
+Starbucks,31192-103808,Chapultepec Guadalajara,Licensed,Av. Lopez Cotilla #1465,Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.37,20.67
+Starbucks,31453-107338,Plaza Mexico,Licensed,3300 Avenue Mexico,Guadalajara,JAL,MX,44690,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.4,20.68
+Starbucks,16371-170364,Patio Patria,Licensed,"Av Patria S/N Esq Paseo Royal Country, Fracc Royal Country Jalisco",Guadalajara,JAL,MX,45116,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.7
+Starbucks,31793-114608,Plaza del Sol,Licensed,"2375 Adolfo Lopez Mateos Boulevard, Local 4A-Zona C, Col. Ciudad del Sol",Guadalajara,JAL,MX,45050,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.4,20.65
+Starbucks,25661-241969,Guadalajara Centro,Licensed,"Calle Morelos # 219 Col. Centro, entre calles Maestranza y Degollado",Guadalajara,JAL,MX,44100,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.35,20.68
+Starbucks,1971-96037,Galerias Guadalajara,Licensed,"Av. Rafael Sanzio No. 150, Local C4 Nivel Vallarta",Guadalajara,JAL,MX,45030,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.43,20.68
+Starbucks,25503-236935,Real Center,Licensed,"Av.Santa Margarita esq.Servidor Publico, Municipio de Zapopan",Guadalajara,JAL,MX,45136,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.43,20.73
+Starbucks,38144-96427,Minerva Guadalajara,Licensed,Blvrd. Lopez Mateos,Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.67
+Starbucks,28167-249490,Sania,Licensed,"Av. Vallarta entre Juan Palomar, y Aria",Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.68
+Starbucks,31476-140004,GDL - Guadalajara Intl Airport,Licensed,Carretera Guadalajara Chapala Km 17.5,Guadalajara,JAL,MX,45659,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.3,20.52
+Starbucks,38154-99071,Gran Plaza,Licensed,"Av Vallarta 3959, Col Don Bosco, Zapopan",Guadalajara,JAL,MX,44540,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.4,20.67
+Starbucks,30817-99269,Mariano Otero,Licensed,"Mariano Otero No 3295, Fracc Verde Valle",Guadalajara,JAL,MX,44550,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.65
+Starbucks,31837-116906,Galerias Guadalajara 2,Licensed,"150 Avenue Rafael Sanzio, Local 05, Nivel Terrasa, Col. La Estancia",Guadalajara,JAL,MX,45050,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.43,20.68
+Starbucks,28014-249484,Expo Guadalajara,Licensed,"Av. Mariano Otero #1499, Col. Verde Valle",Guadalajara,JAL,MX,44550,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.65
+Starbucks,31681-112524,Terranova,Licensed,"1025 Terranova , Colonia Lomas de Provid",Guadalajara,JAL,MX,44630,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.39,20.69
+Starbucks,31682-105092,Zona Financiera,Licensed,"Av. Americas & Av. Providencia, Colonia",Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.38,20.7
+Starbucks,38153-99006,Centro Magno,Licensed,"Av. Vallarta #2425, Atrio Central, Colon",Guadalajara,JAL,MX,44140,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.38,20.67
+Starbucks,30715-99043,GDL - Aeropuerto Guadalajara Pta,Licensed,"Carretera Guadalajara-Chapala, Km. 17.5,",Guadalajara,JAL,MX,45659,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.3,20.52
+Starbucks,28016-249494,Alcalde,Licensed,"Av. Alcalde #1931 esq. Felix, Palavicini",Guadalajara,JAL,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.35,20.69
+Starbucks,38145-96722,Chapalita Guadalajara,Licensed,"Av. Guadalupe #1559, Colonia Chapalita",Guadalajara,JAL,MX,45040,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.41,20.67
+Starbucks,30694-100779,Bugambilias Guadalajara,Licensed,"Boulevard Bugambilias #2299, Local D - 4,  Col. Bugambilias",Guadalajara,JAL,MX,44540,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.45,20.6
+Starbucks,18848-196004,Oblatos,Licensed,Av. Circunvalación No 2700 Col. Oblatos.,Guadalajara,JAL,MX,44700,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.3,20.69
+Starbucks,1914-119547,Andares,Licensed,Puerta de Hierro Blvd. Col. Lomas Altas,Guadalajara,JAL,MX,11950,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.32,20.7
+Starbucks,32388-127146,Copernico,Licensed,"5435 Copernico Avenue, Colonia Arboledas",Guadalajara,JAL,MX,45070,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.63
+Starbucks,32606-119580,Avila Camacho,Licensed,Avenida Manuel Avila Camacho # 3240,Guadalajara,JAL,MX,45150,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.37,20.71
+Starbucks,3565-153294,Nima Bay,Licensed,"Paseo de la Marina No. 121 Local 25,, Fracc. La Marina Vallarta",Puerto Vallarta,JAL,MX,48335,,GMT-06:00 America/Mexico_City,GMT-06:00,-105.25,20.67
+Starbucks,31450-107581,Plaza Peninsula,Licensed,2485 Boulevard Francisco Medina Ascencio,Puerto Vallarta,JAL,MX,48300,,GMT-06:00 America/Mexico_City,GMT-06:00,-105.24,20.65
+Starbucks,21188-209757,Malecon Vallarta II,Licensed,"Paseo Diaz Ordaz No. 920 Local A, Centro",Puerto Vallarta,JAL,MX,48300,,GMT-06:00 America/Mexico_City,GMT-06:00,-105.23,20.61
+Starbucks,32211-119574,Galerias Vallarta,Licensed,2920 Francisco Medina Asencio Boulevard,Puerto Vallarta,JAL,MX,48338,,GMT-06:00 America/Mexico_City,GMT-06:00,-105.24,20.66
+Starbucks,31847-114974,Malecon 1,Licensed,Paseo Diaz Ordaz,Puerto Vallarta,JAL,MX,48300,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.82,21.15
+Starbucks,1373-132447,Paradise Plaza,Licensed,"Avenida Paseo de Los Cocoteros, 85 Sur Locales",Puerto Vallarta,JAL,MX,63732,,GMT-07:00 America/Chihuahua,GMT-07:00,-105.29,20.69
+Starbucks,20392-205064,Las Juntas,Licensed,"Parcela 158, Z1 P3/5, Local 1, Col. Las Juntas",Puerto Vallarta,JAL,MX,48291,,GMT-07:00 America/Chihuahua,GMT-07:00,-105.26,20.69
+Starbucks,16447-169209,Palomar,Licensed,"Av. Lopez Mateos No. 1307 Local 1, El Palomar District",Tlajomulco,JAL,MX,45643,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.44,20.59
+Starbucks,2158-121209,Forum Tlaquepaque,Licensed,"Av. Gen Marcelino Garcia Barragan # 2077, Col. El Paradero",Tlaquepaque,JAL,MX,44840,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.32,20.65
+Starbucks,32696-139186,Tec Guadalajara,Licensed,Ave Gral Ramon Corona 2514,Zapopan,JAL,MX,45201,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.45,20.73
+Starbucks,25439-239825,Plaza Los Robles,Licensed,"Carretera a Tesistan No 2, Los Robles",Zapopan,JAL,MX,45134,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.75
+Starbucks,30716-99849,Patria Acueducto Guadalajara,Licensed,"Av. Patria No. 2051-4, lote 8",Zapopan,JAL,MX,45110,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.7
+Starbucks,26703-245077,Ciudad Lazaro Cardenas,Licensed,Av. Las Palmas 1559,Lazaro Cardenas,MIC,MX,60955,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.21,17.98
+Starbucks,32420-132445,Camelinas,Licensed,1494 Camelinas Avenue,Morelia,MIC,MX,58241,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.18,19.68
+Starbucks,24203-236544,Ventura Puente,Licensed,"Av.Ventura Puente #744, Col. Ventura Puente",Morelia,MIC,MX,58020,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.18,19.69
+Starbucks,26858-245928,La Huerta,Licensed,Calzada de la Huerta # 2713,Morelia,MIC,MX,58080,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.22,19.68
+Starbucks,31792-108924,Morelia Campestre,Licensed,450 Avenue Enrique Ramirez Miguel,Morelia,MIC,MX,58260,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.16,19.69
+Starbucks,2159-230327,Paseo Altozano,Licensed,Avenue Tecnologico de Monterrey,Morelia,MIC,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.17,19.65
+Starbucks,27201-246920,Uruapan II DT,Licensed,"Calle Lazaro Cardenas #2109, Esquina Bruselas",Uruapan,MIC,MX,60160,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.07,19.41
+Starbucks,13070-156048,CC Uruapan,Licensed,"Blvd Industrial No. 1241 Local A-10 y 11, Col. Villa Uruapan",Uruapan,MIC,MX,60120,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.04,19.42
+Starbucks,31590-108339,Domingo Diez,Licensed,Avenue Domingo Diez #1003 Locales 1y2,Cuernavaca,MOR,MX,62250,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.24,18.95
+Starbucks,32049-109625,Zapata,Licensed,904 Avenue Emiliano Zapata,Cuernavaca,MOR,MX,62170,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,18.96
+Starbucks,38133-96880,Cuernavaca Vistahermosa,Licensed,Av. Rio de Mayo,Cuernavaca,MOR,MX,62290,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,18.93
+Starbucks,30652-100048,Galerias Cuernavaca,Licensed,"Carr. Mexico-Acapulco S/N, Local 158",Cuernavaca,MOR,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.19,18.94
+Starbucks,27464-247807,Cuernavaca Centro,Licensed,"Salazar No. 40 Col. Centro, Benito Juarez",Cuernavaca,MOR,MX,62000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,18.92
+Starbucks,47820-259927,Sendero La Fe,Licensed,"Carretera Miguel Aleman No. 789, Ave. Del Telefono",Apodaca,MX,MX,66603,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.19,25.76
+Starbucks,38142-95538,Zona Esmeralda,Licensed,"Via Jorge Jimenez Cantu s/n, loc. 1",Atizapan de Zaragoza,MX,MX,54720,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.3,19.56
+Starbucks,16168-168864,Plaza Las Flores,Licensed,"Via Jose Lopez Portillo No 105, entre Boulevard Coacalco y Providencia",Coacalco,MX,MX,55700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.64
+Starbucks,13069-142824,CC Coacalco,Licensed,Via Jose lopez Portillo,Coacalco,MX,MX,55710,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.64
+Starbucks,25676-241986,Cosmopol,Licensed,"Via Jose Lopez Portillo No.1, Pueblo San Francisco Coacalco.",Coacalco,MX,MX,55700,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.1,19.63
+Starbucks,32754-140812,San Marcos,Licensed,Autopista Mexico Queretaro Km 38,Cuautitlan Izcalli,MX,MX,54730,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.67
+Starbucks,2144-139849,Luna Parc,Licensed,Ave 1 de Mayo con Avenida Huixquilucan,Cuautitlan Izcalli,MX,MX,54738,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.21,19.66
+Starbucks,15614-163324,Plaza Aragon,Licensed,"Av. Carlos Hank Gonzalez No. 120, Col. Rinconada de Aragon. Local 115",Ecatepec,MX,MX,55140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.03,19.53
+Starbucks,25024-239624,Plaza Aragon II,Licensed,"Av. Carlos Hank González # 120, Local 15AM;  Col. Rinconada de Aragón","Ecatepec, Edo. de Mex.",MX,MX,55140,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.02,19.56
+Starbucks,20453-205550,Ciudad Jardin II,Licensed,"Av. Bordo de Xochiaca n.3, Col., Ciudad Jardin Bicentenario",EDO MEX,MX,MX,57205,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.02,19.42
+Starbucks,28420-250688,Sendero Ixtapaluca,Licensed,"Mexico Cuautla No 1 Col Santa Barbara, Ixtapaluca Edo. Mex.",Edo Mex,MX,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.88,19.3
+Starbucks,47809-259932,Plaza Chimalhuacan,Licensed,"Av Nezahualcoyotl 1 Col Sta Maria, Municipo de Chimalhuacan",Edo Mexico,MX,MX,56337,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.93,19.41
+Starbucks,48712-264427,Villas de la Hacienda,Licensed,"Cto. Comercial Plaza La Hacienda, Villas de la Hacienda, Atizapan, 54500",Estado de Mexico,MX,MX,0,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.61
+Starbucks,27032-246490,Av. Jinetes,Licensed,Av de los Jinetes Tlalnepantla Edo Mex,Estado de Mexico,MX,MX,52929,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.24,19.45
+Starbucks,20500-206204,Espacio Vista del Valle,Licensed,"Av. Circunvalación Poniente n.189,Col., Vista del Valle, Naucalpan",Estado de Mexico,MX,MX,52323,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.48
+Starbucks,49219-267551,Cetram 4 caminos,Licensed,Transmisiones Militares,Estado de Mexico,MX,MX,53399,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.46
+Starbucks,26766-245328,Tlalnepantla Carso,Licensed,"Sor Juana Ines de la Cruz No. 280, Tlalnepantla",Estado de Mexico,MX,MX,54033,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.45
+Starbucks,49216-267566,Torre Diana,Licensed,Rio Lerma 232 esquina Rio Mississippi,Estado de Mexico,MX,MX,6500,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.17,19.43
+Starbucks,23729-232712,Carretera a Puebla,Licensed,"MEX-PUEBLA KM.30.3, JARDIN INDUSTRIAL",ESTADO DE MEXICO,MX,MX,56577,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.9,19.29
+Starbucks,47149-256885,Santa Monica Periferico DT,Licensed,"Blvd México-Queretaro 1898, Periferico, Viveros de la Loma",Estado de México,MX,MX,54000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.53
+Starbucks,29668-254836,Power Center Las Americas,Licensed,"Av. Central esq. Av. Primero de Mayo, Av. Central esq. Av. Primero de Mayo",Estado de México,MX,MX,55031,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.02,19.58
+Starbucks,18051-170381,Parque Interlomas,Licensed,"Av. Jesus del Monte #41, Col. Jesus del Monte",Huixquilucan,MX,MX,52764,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.3,19.38
+Starbucks,16336-136172,Paseo Interlomas,Licensed,"Vialidad de la Barranca 6, Colonia Ex Hacienda Jesus del Monte",Huixquilucan,MX,MX,52787,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.4
+Starbucks,38126-94637,Interlomas,Licensed,"Blvrd. Magnocentro L1 Mz2, Lomas Anahuac",Huixquilucan,MX,MX,52787,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.27,19.41
+Starbucks,38121-93099,Herradura,Licensed,"Av Bosque de Minas No.33 loc 6,7 terraza, Col. Bosques de la Herradura",Huixquilucan,MX,MX,52783,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.26,19.42
+Starbucks,16543-172786,Plaza del Parque,Licensed,Paseo San Isidro No. 400,Medepec,MX,MX,52140,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.72,17.08
+Starbucks,38138-96878,Galerias Metepec,Licensed,"Vialidad Metepec S/N,",Metepec,MX,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.62,19.26
+Starbucks,47226-257384,Pabellon Metepec,Licensed,"Boulevard Toluca-Metepec #719 norte, antes 505 norte. Col. Las Jaras",Metepec,MX,MX,52160,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.61,19.25
+Starbucks,38141-97350,Plaza Mayor Metepec,Licensed,Av. Leona Vicario #386,Metepec,MX,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.62,19.26
+Starbucks,26556-244506,Parque Toreo II,Licensed,"Boulevard Manuel Avila Camacho # 456, Naucalpan de Juarez, Mexico",Mexico,MX,MX,53390,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.22,19.46
+Starbucks,28975-244507,Patio La Raza,Licensed,"Calz. Vallejo esq. Pte 94B, Col. San Francisco Xocotitla",Mexico,MX,MX,2960,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.14,19.47
+Starbucks,18285-188667,Gandhi,Licensed,"Miguel Angel de Quevedo 121, Guadalupe Chimalistac",Mexico City,MX,MX,1050,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.18,19.35
+Starbucks,25072-239888,Paseo Interlomas II,Licensed,"Vialidad de la Barranca numero 6, Colonia Ex Hacienda Jesus del Monte",Municipio de Huixquilucan,MX,MX,52772,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.28,19.4
+Starbucks,38117-77731,Satelite,Licensed,"Circuito Medicos #6, esq. Fernando Leal Novelo, Ciudad Sateli",Naucalpan,MX,MX,53100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.51
+Starbucks,17471-182325,Torres de Satelite,Licensed,"Blvd Manuel Avila Camacho 3034, Lt 47 MZ1, Colonia Florida",Naucalpan,MX,MX,53160,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.24,19.49
+Starbucks,15131-157826,C.C. Plaza Satelite,Licensed,"Cto. Comercial # 2251, Local R308, CD. Satelite",Naucalpan,MX,MX,53100,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.51
+Starbucks,9047-150044,Plaza Lomas Verdes,Licensed,#26 Col Fracc Blvd,Naucalpan,MX,MX,53120,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.49
+Starbucks,38119-93098,Lomas Verdes,Licensed,"Av. Lomas Verdes No. 640, loc. 13 y 14, Col. La Soledad",Naucalpan,MX,MX,53200,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.49
+Starbucks,38115-79340,Zona Azul,Licensed,"Cto. Economistas y, Circunvalacion pte FI-4",Naucalpan,MX,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.25,19.51
+Starbucks,17486-182344,Fuente de Tritones,Licensed,"Fuente de Tritones 22, Fraccionamiento Lomas de Tecamachalco",Naucalpan,MX,MX,53950,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.43
+Starbucks,20452-205545,Patio Ecatepec,Licensed,"Prolongación Agricultura PD Soledad, Miyuhualco y Tierra Blanca Col.","San Cristobal Centro, EDO MEX",MX,MX,55020,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.05,19.61
+Starbucks,50448-241997,Mundo E,Licensed,"Blvd. Manuel Avila Camacho N.1007, San Lucas Tepetlacalco, Tlalnepantla",Tlalnepantla,MX,MX,54055,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.23,19.52
+Starbucks,15892-165825,Sor Juana,Licensed,"Sor Juana Ines de la Cruz 101, Col. Tlalnepantla Centro",Tlalnepantla de Baz,MX,MX,54000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.2,19.54
+Starbucks,24646-238587,Galerias Toluca,Licensed,"Paseo Tollocan, esq. 1° de Mayo",Toluca,MX,MX,50160,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.68,19.27
+Starbucks,23223-228834,Carr Toluca Mexico km 48,Licensed,"Carr Toluca Mex km 48.7, Municipio de Ocoyoacac",Toluca,MX,MX,53743,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.49,19.28
+Starbucks,32419-132844,ITESM Toluca,Licensed,Eduardo Monroy Cardenas 2000,Toluca,MX,MX,50110,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.7,19.27
+Starbucks,31713-111228,Toluca Colon,Licensed,Avenue Venustiano Carranza 903,Toluca,MX,MX,50120,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.66,19.28
+Starbucks,18636-192945,Sendero Toluca,Licensed,"Local 10 y 11 Col. Parque Industrial, Lerma",Toluca,MX,MX,52000,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.55,19.29
+Starbucks,22779-224827,Carretera Mexico-Toluca KM 42,Licensed,"Carr, Mex-Toluca 42.8 Col. Ortiz Rubio, Municipio de Ocoyoacac",Toluca,MX,MX,53743,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.45,19.28
+Starbucks,32574-119596,Tecnologico Metepec,Licensed,"Avenue Tecnologico 1600, Norte San Salvador Tizatlalli",Toluca,MX,MX,52172,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.57,19.27
+Starbucks,23225-228833,Tepic Shopping Center,Licensed,Av. De la Cultura esq. Rio Bravo,Tepic,NAY,MX,63185,,GMT-07:00 America/Chihuahua,GMT-07:00,-104.89,21.49
+Starbucks,1917-134787,Forum Tepic,Licensed,Boulevard Luis Donaldo Colosio N. 680,Tepic,NAY,MX,63000,,GMT-07:00 America/Chihuahua,GMT-07:00,-104.87,21.49
+Starbucks,48657-264432,Apto. Mty. TC SUE,Licensed,Carretera Miguel Aleman KM 24,Apodaca,NLE,MX,66600,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.12,25.78
+Starbucks,31872-108681,Avenue Las Americas,Licensed,705 Pintores Mexicanos,Guadalupe,NLE,MX,67173,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.08,19.52
+Starbucks,32667-132448,Guadalupe,Licensed,6000 Guadalupe Avenue,Guadalupe,NLE,MX,45030,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.44,20.66
+Starbucks,24643-238604,Apto Mty TB SUE,Licensed,C. Miguel Aleman Km 24,Monterrey,NLE,MX,66600,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.18,25.78
+Starbucks,21190-209752,Magma Towers,Licensed,"Frida Khalo #194 esq Rufino Tamayo, Magma Towers Plaza",Monterrey,NLE,MX,66260,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.33,25.65
+Starbucks,25435-241025,Plaza Sienna,Licensed,"A. Fundadores # 995, Colonia Valle Oriente",Monterrey,NLE,MX,64753,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.32,25.64
+Starbucks,5014-144444,MTY International Airport TB PB,Licensed,Carretera a Colombia km 5.5,Monterrey,NLE,MX,66050,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.11,25.78
+Starbucks,32794-137741,Churubusco,Licensed,Av. Prolongacion Madero,Monterrey,NLE,MX,64590,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.27,25.68
+Starbucks,2104-141451,Plaza Fiesta Anahuac,Licensed,"Ave. Manuel L. Barragan # 1600, San Nicolas de los Garza",Monterrey,NLE,MX,65040,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.32,25.72
+Starbucks,31794-116129,Plaza Cumbres,Licensed,676 Avenue Hacienda Penuelas,Monterrey,NLE,MX,66278,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.4,25.73
+Starbucks,31266-102322,Cumbres Sonic Monterrey,Licensed,Av. Paseo de los Leones # 2400 Col. Cumb,Monterrey,NLE,MX,64610,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.38,25.71
+Starbucks,25225-239827,Esfera City Center,Licensed,"Carretera Nacional KM 268,  La Rioja",Monterrey,NLE,MX,64984,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.24,25.58
+Starbucks,47980-260827,Plaza Aeropuerto Mty,Licensed,"Blvd. Aeropuerto #10, Parque Industrial Milenio",Monterrey,NLE,MX,66626,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.13,25.79
+Starbucks,30960-102269,Gomez Morin,Licensed,Av. Gomez Morin  404 Col. Del Valle,Monterrey,NLE,MX,76220,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.36,25.65
+Starbucks,26299-244260,Metropolitan,Licensed,"Av. Lazaro Cardenas #2400, zona Valle Oriente",Monterrey,NLE,MX,66260,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.3,25.63
+Starbucks,32048-119305,Desarrollos Delta,Licensed,"1882 Antonio L Rodriguez Boulevard, Plaza Sur, Col. Santa Maria C.P.",Monterrey,NLE,MX,64650,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.38,25.67
+Starbucks,31895-108825,La Calma,Licensed,3602 Mariano Otero,Monterrey,NLE,MX,45070,,GMT-06:00 America/Mexico_City,GMT-06:00,-103.42,20.64
+Starbucks,23222-228832,Plaza Qu,Licensed,"Paseo de Los Leones esq. Paseo Cumbres, Av. Paseo de Los Leones #2001",Monterrey,NLE,MX,64349,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.41,25.74
+Starbucks,25526-241273,Paseo Sendero,Licensed,"Av. Sendero #200, San Nicolas de Los Garza",Monterrey,NLE,MX,66418,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.28,25.63
+Starbucks,32473-131724,Constitucion,Licensed,Avenue Constitucion 1804-B Pte.,Monterrey,NLE,MX,64000,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.34,25.67
+Starbucks,47050-256606,Pabellon M,Licensed,"Av. Juarez #1102, Pabellon M",Monterrey,NLE,MX,64000,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.41,25.77
+Starbucks,22558-222445,Nuevo Sur,Licensed,"Av. Revolucion 2703, Colonia Ladrillera",Monterrey,NLE,MX,64830,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.28,25.66
+Starbucks,32106-119550,MTY - Terminal 2,Licensed,Carretera Miguel Aleman Km 24,Monterrey,NLE,MX,66600,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.11,25.78
+Starbucks,31870-106764,Plaza Fiesta San Agustin,Licensed,"1000 Batallon De San Patricio, San Pedro Garza Garcia NL",Monterrey,NLE,MX,66260,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.34,25.65
+Starbucks,31296-105887,Galerias Valle Oriente,Licensed,1000 Avenue Lazaro Cardenas,Monterrey,NLE,MX,66278,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.31,25.64
+Starbucks,31257-105667,Tecnologico de Monterrey,Licensed,Av Eugenio Garza Sada 2501 Sur Col Tecno,Monterrey,NLE,MX,64849,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.29,25.65
+Starbucks,31943-108806,Plaza Real,Licensed,315 Avenue Jose Eleuterio Gzz,Monterrey,NLE,MX,64050,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.35,25.68
+Starbucks,31049-102271,Valle Plaza 401 Monterrey,Licensed,Calzada del Valle 401,Monterrey,NLE,MX,76220,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.36,25.66
+Starbucks,32162-116130,Citadel Mall Monterrey,Licensed,410 Romulo Garza,Monterrey,NLE,MX,66477,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.21,25.73
+Starbucks,32204-120384,Plaza Tanarah,Licensed,"Avenue Vasconcelos Ote #345, Col del Valle",Monterrey,NLE,MX,66231,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.35,25.65
+Starbucks,31992-119591,Garza Sada,Licensed,Avenue Eugenio Garza Sada #250,Monterrey,NLE,MX,64840,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.29,25.64
+Starbucks,31610-108143,Vasconcelos,Licensed,Av. Vasconcelos 804A Pte,Monterrey,NLE,MX,66220,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.39,25.66
+Starbucks,30986-101302,Plaza San Pedro Monterrey,Licensed,Av. Jose Vasconcelos y Av. Gomez Morin.,Monterrey,NLE,MX,66265,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.36,25.65
+Starbucks,47052-256605,Paseo La Fe,Licensed,"Av. Miguel Aleman #107, Paseo La Fe",Monterrey,NLE,MX,66470,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.28,25.68
+Starbucks,32751-137951,Anahuac,Licensed,AV.UNIVERSIDAD ESQ SALVADOR DIAZ MIRON,Monterrey,NLE,MX,66450,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.3,25.74
+Starbucks,24647-238610,Apto Mty TA SUE,Licensed,C. Miguel Aleman Km 24,Monterrey,NLE,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.28,25.68
+Starbucks,32132-108126,Paseo de los Leones,Licensed,#1301 Paseo de los Leones,Monterrey,NLE,MX,64610,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.38,25.71
+Starbucks,5084-148264,MM Garza Sada,Licensed,"Av Garza Sada s/n Monterrey, Nuevo Leon",Monterrey,NLE,MX,83250,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.26,25.6
+Starbucks,32163-112868,San Jeronimo Monterrey,Licensed,1841 Anillo Periferico,Monterrey,NLE,MX,64630,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.38,25.69
+Starbucks,31244-105325,Galerias Monterrey,Licensed,Insurgentes 2500 Col Vista Hermosa,Monterrey,NLE,MX,64620,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.35,25.68
+Starbucks,31620-108683,Revolucion Super 7,Licensed,3604 Avenue Revolucion,Monterrey,NLE,MX,64860,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.27,25.64
+Starbucks,21185-209760,Miguel Aleman Monterrey,Licensed,"Carr Miguel Aleman #250-B, Apodaca District",Nuevo Leon,NLE,MX,66600,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.2,25.74
+Starbucks,47821-259928,La Aurora,Licensed,"Ave. Lazaro Cardenas 2311, Jose Maria Escriva",San Pedro Garza Garcia,NLE,MX,66278,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.33,25.65
+Starbucks,32387-134007,Plaza Fiesta San Agustin Interior,Licensed,Batallon de San Patricio #1000,San Pedro Garza Garcia,NLE,MX,66278,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.34,25.65
+Starbucks,31990-119562,Universidad de Monterrey,Licensed,Avenue Morones Prieto #450,San Pedro Garza Garcia,NLE,MX,66238,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.42,25.66
+Starbucks,21181-209744,Plaza del Parque -,Licensed,"Calz. Porfirio Diaz #258, Col Reforma, Plaza del Parque",Oaxaca,OAX,MX,6805,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.72,17.08
+Starbucks,3802-153447,Puebla Huexotitla,Licensed,"Av.43 Oriente #5, Col Huexotitla",Puebla,PUE,MX,1770,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.21,19.03
+Starbucks,16461-171707,Hospital Angeles Puebla,Licensed,"Av. Kepler No. 2143, Col. Reserva Territorial Atlixcayotl",Puebla,PUE,MX,72190,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.23,19.02
+Starbucks,38147-98018,Puebla Las Animas,Licensed,Circuito Interior Juan Pablo II #3302,Puebla,PUE,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.23,19.04
+Starbucks,24978-239445,Galerias Hermanos Serdan PUEBLA,Licensed,"Blvd Hermanos Serdad No. 270, Rancho Colorado",PUEBLA,PUE,MX,72040,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.25,18.98
+Starbucks,49147-267188,25 Poniente,Licensed,"25 poniente, 16 de Septimbre",Puebla,PUE,MX,72530,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.2,19.04
+Starbucks,30854-101588,Triangulo,Licensed,"39 Poniente #3515 local 4 y 5, C.C. El Triangulo,  Col. Las Animas",Puebla,PUE,MX,72400,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.24,19.04
+Starbucks,29935-255964,31 Oriente,Licensed,Centro31 orinte No. 803 Col. Ladrillera,Puebla,PUE,MX,72530,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.2,19.03
+Starbucks,38146-98019,Puebla Masarik,Licensed,Blvrd. Atlixcayotl 1501,Puebla,PUE,MX,72810,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.24,19.03
+Starbucks,30650-99692,Juarez Puebla,Licensed,"Av. Juarez No. 2511, Col. La Paz, entre 25 y 23 sur",Puebla,PUE,MX,72400,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.22,19.05
+Starbucks,3804-153448,Puebla Zavaleta,Licensed,"Calzada Zavaleta #3916 Local 1, Col Santa Buenavista",Puebla,PUE,MX,72170,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.25,19.05
+Starbucks,29662-254827,Puebla Centro,Licensed,"Av. 2 Oriente 201, 2 Norte",Puebla,PUE,MX,72000,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.2,19.04
+Starbucks,38157-228844,Angelopolis - Relocation,Licensed,"Blvd. Del Nino Poblano #2,510 Col. Col.",Puebla,PUE,MX,72450,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.23,19.03
+Starbucks,23860-233604,Adagio,Licensed,"PASEO OPERA NO. 11 AND 13, Local 1, Lomas de Agnelpolis II",PUEBLA,PUE,MX,72830,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.21,19.01
+Starbucks,9107-100808,Cholula,Licensed,"Calle 5 de Mayo # 1,427, Local 22, Col.",Puebla,PUE,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.3,19.06
+Starbucks,17988-187104,Constituyentes Qro,Licensed,"Av. Constituyentes No. 57, Col. Cimatario",Queretaro,QUE,MX,76030,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.39,20.58
+Starbucks,27200-246919,Town Center Juriquilla,Licensed,Town Center Juriquilla,Queretaro,QUE,MX,76127,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.45,20.69
+Starbucks,19159-198604,Urban Center Juriquilla,Licensed,"Boulevard Jurica la Campana No. 899, Local 02, Residencial Caletto",Queretaro,QUE,MX,76230,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.44,20.71
+Starbucks,26704-245075,Paseo Quintana,Licensed,Blvd. Bernardo Quintana No. 4607,Queretaro,QUE,MX,76160,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.41,20.62
+Starbucks,23625-231586,Antea I,Licensed,Carretera Queretaro-San Luis No. 12401,Queretaro,QUE,MX,76127,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.43,20.65
+Starbucks,27198-246918,Carretera Queretaro-Mexico,Licensed,"Carr- Mexico Queretaro km # 206 +300, CC Piamonte",Queretaro,QUE,MX,76246,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.26,20.58
+Starbucks,32223-122444,Campestre Queretaro,Licensed,103 Hacienda Grande,Santiago de Queretaro,QUE,MX,76180,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.41,20.57
+Starbucks,32088-119575,Plaza Boulevares,Licensed,"4100 Bernardo Quintana Boulevard, Local PA15 & IS PA02, Colonia Alamos 3ra",Santiago de Queretaro,QUE,MX,76160,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.39,20.62
+Starbucks,32187-127145,Los Arcos,Licensed,52-C Ramon Ramirez Familiar,Santiago de Queretaro,QUE,MX,76000,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.38,20.59
+Starbucks,31896-116005,Galerias Queretaro,Licensed,"Avenue 5 de Febrero Sur #99, Col. Virreyes, Santiago de Queretaro",Santiago de Queretaro,QUE,MX,76000,,GMT-06:00 America/Mexico_City,GMT-06:00,-100.41,20.58
+Starbucks,21485-212464,Quinta Alegria,Licensed,"esq Constituyentes y calle 16 bis nte, Plaza Quinta Alegria",Can Cun,ROO,MX,77711,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.07,20.63
+Starbucks,31451-106256,Plaza Caracol,Licensed,"Blvrd. Kukulkan Km 8.5, Zona Hotelera",Cancun,ROO,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.75,21.14
+Starbucks,2105-141450,Malecon las Americas,Licensed,"Bonanpack Ave esq Nichupte, SM:6 1 lote 1",Cancun,ROO,MX,77504,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.82,21.15
+Starbucks,31702-106244,CUN - Cancun Int Airport T3 PA,Licensed,"Carretera Cancun-Chetumal, Km 22",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.87,21.04
+Starbucks,26767-245330,Kukulcan Cancun,Licensed,"Boulevard  Kukulcan km. 3.5, Esq Calle Galeon Zona Hotelera",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.79,21.15
+Starbucks,29874-255684,Terminal 3 Planta Alta II,Licensed,"Carretera Cancún-Chetumal Km 22, 75220 C",Cancun,ROO,MX,75220,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.87,21.04
+Starbucks,1919-142188,Plaza Cumbres Cancun,Licensed,CARRETERA CAN CUN - TULUM KM 7.5,Cancun,ROO,MX,77504,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.84,21.11
+Starbucks,1908-168944,Bonampak 77,Licensed,77 Bonampak Ave,Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.83,21.13
+Starbucks,12943-155404,CUN - Cancun Int T2 Exterior,Licensed,"Carretera Cancun-Chetumal, Km 22, Terminal 2, Exterior",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.87,21.04
+Starbucks,15457-161645,CUN - Cancun Intl T2- Ext Satellite,Licensed,"Carretera Cancun-Chetumal, Km 22, Terminal 2, Exterior",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.87,21.04
+Starbucks,31703-106243,CUN - Cancun Int Airport T3 PB,Licensed,"Carretera Cancun-Chetumal, Km 22",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.87,21.04
+Starbucks,31452-106353,La Isla Cancun 2,Licensed,"Blvrd. Kukulkan Km 12.5, Zona Hotelera",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.76,21.11
+Starbucks,31378-105285,Plaza Hollywood Cancun,Licensed,Avenue Xcaret,Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.83,21.16
+Starbucks,31932-117164,Bonampak,Licensed,"Avenue Bonampack S/N, Local 1",Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.83,21.13
+Starbucks,31475-106927,Paseo Cancun,Licensed,Av. Andres Quintana Roo,Cancun,ROO,MX,77500,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.85,21.15
+Starbucks,25448-241026,Aeropuerto Cancun,Licensed,"Carretera Cancún-Chetumal Km 22, 75220, Cancun, Quintana Roo, Mexico",Cancun Q Roo,ROO,MX,75220,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.85,21.04
+Starbucks,24969-239446,Cozumel Pama,Licensed,Rafael E. Melgar  34  Isla Cozumel,COZUMEL,ROO,MX,77609,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.95,20.51
+Starbucks,31993-118768,Punta Langosta,Licensed,Avenue Rafael Melgar,Cozumel,ROO,MX,77600,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.95,20.51
+Starbucks,49218-267545,Terminal Maritima,Licensed,Terminal Maritima Playa del Carmen,Playa del Carmen,ROO,MX,77710,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.08,20.62
+Starbucks,32572-136726,Playacar,Licensed,Ave. Playacar,Playa del Carmen,ROO,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.09,20.61
+Starbucks,23628-231588,Centro Maya  Playa del Carmen,Licensed,"Carretera Federal 2100, region 100, mza 16. Lote 1, Col ejidal",Playa del Carmen,ROO,MX,77702,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.09,20.62
+Starbucks,31449-107158,Paseo del Carmen,Licensed,Paseo del Carmen,Playa del Carmen,ROO,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.07,20.62
+Starbucks,31496-106897,Playa Basico,Licensed,Quinta Avenida& Calle 10,Playa del Carmen,ROO,MX,77710,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.07,20.63
+Starbucks,31991-114973,Playa Tides,Licensed,"Quinta Av. Norte entre calle 28 nte y 30, 5B-6A-6B Fracc. 2 Lte.119",Playa del Carmen,ROO,MX,77710,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.08,20.62
+Starbucks,29537-245930,5a Av Playa del Carmen,Licensed,"5a. Avenida  entre calle 12 y 14, Solidaridad",Playa del Carmen,ROO,MX,77710,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.42,20.37
+Starbucks,19146-199025,Carretera Cancun-Playa,Licensed,"Km. 39+300, Carretera Cancun-Chetumal, Rancho La Esperanza",Quintana Roo,ROO,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-86.85,21.03
+Starbucks,24200-236570,Tulum,Licensed,"Av. Ruinas de Tulun No. F-3, Col. Tulum Ruinas",Tulum,ROO,MX,77760,,GMT-06:00 America/Mexico_City,GMT-06:00,-87.44,20.22
+Starbucks,1803-154027,Culiacan Cinepolis,Licensed,"Blvd. Culiacan No. 450, Col. Recursos Hidraulicos",Culiacan,SIN,MX,80100,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.41,24.8
+Starbucks,26861-245074,Aeropuerto Culiacan,Licensed,Carretera Navolato km 4.5,Culiacan,SIN,MX,80130,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.39,24.8
+Starbucks,26444-239828,Plaza Palmares,Licensed,"Blvd Pedro Infante, #3201 Fracc. Floresta Tres Rios",Culiacan,SIN,MX,80014,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.44,24.79
+Starbucks,23966-234585,Lowes Culiacan,Licensed,"Blvd. Jose Limon, Rep de Brasil",Culiacan,SIN,MX,,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.42,24.76
+Starbucks,32610-132861,Tres Rios,Licensed,Boulevard Jose Diego Valadez Rios & C. P,Culiacan,SIN,MX,80027,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.4,24.82
+Starbucks,32609-132866,Forum Culiacan,Licensed,Plaza Forum,Culiacan,SIN,MX,,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.4,24.82
+Starbucks,23224-228831,La Lomita DT,Licensed,"Av. Alvaro Obregon esq. Rio San Lorenzo, Av. Gral. Alvaro Obregon #1140 Sur",Culiacan,SIN,MX,80220,,GMT-07:00 America/Chihuahua,GMT-07:00,-107.39,24.79
+Starbucks,2096-142846,Boulevard Centenario,Licensed,Blvd Centenario esq Blvd Antonio Rosales,Los Mochis,SIN,MX,81200,,GMT-07:00 America/Chihuahua,GMT-07:00,-109,25.78
+Starbucks,32749-139195,Mazatlan Lomas,Licensed,Av. Lomas de Mazatlan & Av. Camaron Saba,Mazatlan,SIN,MX,82110,,GMT-07:00 America/Chihuahua,GMT-07:00,-106.45,23.24
+Starbucks,20447-205547,Galerias Mazatlan,Licensed,"Av. De la Marina esq. Av Delfin dentro, del desarrollo Marina Mazatlan Mza. 24",MAZATLAN,SIN,MX,82103,,GMT-07:00 America/Chihuahua,GMT-07:00,-106.45,23.24
+Starbucks,49223-267552,Gran Plaza Mazatlan,Licensed,"Av. Reforma S/N, Fracc. Alameda",Mazatlan,SIN,MX,82123,,GMT-07:00 America/Chihuahua,GMT-07:00,-106.44,23.24
+Starbucks,32422-119586,Lomas,Licensed,"Montes Blancos No. 180 Local 3,4 & 5",San Luis Potosi,SLP,MX,78210,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.02,22.14
+Starbucks,31980-119620,Plaza Divina,Licensed,1996 Venustiano Carranza Avenue,San Luis Potosi,SLP,MX,72800,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.01,22.15
+Starbucks,12471-154184,Plaza Carso SLP,Licensed,"Blvd. Antonio Rocha Cordero No. 700, esq. Av. Sierra Vista Poniente",San Luis Potosi,SLP,MX,78215,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.03,22.13
+Starbucks,32360-131224,Himalaya,Licensed,609 Cordillera del Himalaya,San Luis Potosi,SLP,MX,78216,,GMT-06:00 America/Mexico_City,GMT-06:00,-101.03,22.14
+Starbucks,17003-146605,Cd. Obregon,Licensed,"Av Miguel Aleman 15 esSufragio Efectivo, Col. Real del Sol",Ciudad Obregon,SON,MX,85000,,GMT-07:00 America/Chihuahua,GMT-07:00,-109.93,27.51
+Starbucks,32793-132858,City Pitic,Licensed,Morelos Boulevard,Hermosillo,SON,MX,,,GMT-07:00 America/Chihuahua,GMT-07:00,-110.95,29.12
+Starbucks,32695-132860,Rodriguez,Licensed,Rodriguez Boulevard,Hermosillo,SON,MX,,,GMT-07:00 America/Chihuahua,GMT-07:00,-110.95,29.1
+Starbucks,23813-233185,Blvd. Morelos,Licensed,"Blvd. Morelos esq. Av. Trece, Blvd. Jose Maria Morelos # 307",Hermosillo,SON,MX,83144,,GMT-07:00 America/Chihuahua,GMT-07:00,-110.95,29.12
+Starbucks,28017-249491,Puerta Oeste,Licensed,"Blvd. Luis Donaldo Colosio #829, Col. La Rioja",Hermosillo,SON,MX,83224,,GMT-07:00 America/Chihuahua,GMT-07:00,-111.01,29.08
+Starbucks,22035-217084,Aeropuerto Hermosillo,Licensed,"Carretera a Bahia de Quino km 9.5, Local 21D y 23A/Col La Manga",Hermosillo,SON,MX,83220,,GMT-07:00 America/Chihuahua,GMT-07:00,-111.05,29.09
+Starbucks,27203-246917,Nogales Mall Sonora,Licensed,"Blvd. El Greco #45 Col. El Greco, Nogales Mall",Nogales,SON,MX,84066,,GMT-07:00 America/Chihuahua,GMT-07:00,-110.94,31.29
+Starbucks,1362-140065,Paseo Tabasco,Licensed,"Av Prolongacion Paseo Tabasco, Esq Circuito Municipal",Villahermosa,TAB,MX,86035,,GMT-06:00 America/Mexico_City,GMT-06:00,-92.94,18
+Starbucks,22782-224833,Plaza Mallorca,Licensed,"Periferico Calos Pellicer Camara, Local 101",Villahermosa,TAB,MX,86037,,GMT-06:00 America/Mexico_City,GMT-06:00,-92.95,18.01
+Starbucks,29741-254831,Sendero Villahermosa,Licensed,"Periférico Pellicer esquina Universidad, Sendero Villahermosa",Villahermosa,TAB,MX,86103,,GMT-06:00 America/Mexico_City,GMT-06:00,-92.91,18.02
+Starbucks,14970-156624,Galerias Tabasco,Licensed,"Paseo Tabasco No.1405, Col. Desarrollo Urbano",Villahermosa,TAB,MX,86035,,GMT-06:00 America/Mexico_City,GMT-06:00,-92.95,18
+Starbucks,16194-161526,Altabrisa Tabasco,Licensed,"Periferico Carlos Pellicer Camara 129, esq. Av. Cesar Sandino, Col. 1 de mayo",Villahermosa,TAB,MX,86190,,GMT-06:00 America/Mexico_City,GMT-06:00,-92.97,17.98
+Starbucks,22399-220665,Ciudad Victoria,Licensed,Av.Tamaulipas Esq. Lopez Mateos No.890,Ciudad Victoria,TAM,MX,87027,,GMT-06:00 America/Mexico_City,GMT-06:00,-99.15,23.75
+Starbucks,21186-209759,Reynosa,Licensed,"Blvd Hidalgo y Fuente de Diana KM101 s/n, Col. Fraccinamiento Las Fuentes",Reynosa,TAM,MX,88710,,GMT-06:00 America/Mexico_City,GMT-06:00,-98.32,26.06
+Starbucks,1895-139066,Hidago Tampico,Licensed,AV. HIDALGO S/N ENTRE HIDALGO Y LOMA ENC,Tampico,TAM,MX,89330,,GMT-06:00 America/Mexico_City,GMT-06:00,-97.87,22.27
+Starbucks,49221-267548,Fashion Mall Tampico,Licensed,"Av. Ejercito Mexicano No. 706, Col. Primavera",Tampico,TAM,MX,89130,,GMT-06:00 America/Mexico_City,GMT-06:00,-97.86,22.25
+Starbucks,25659-236934,Tampico Universidad,Licensed,"Av. Universidad #900, Municipio de Tampico",Tampico,TAM,MX,89107,,GMT-06:00 America/Mexico_City,GMT-06:00,-97.86,22.27
+Starbucks,25644-241749,ANDAMAR,Licensed,A.RUIZ CORTINEZ 4330  BOCA DEL RIO,BOCA DEL RIO VERACRUZ,VER,MX,94293,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.12,19.09
+Starbucks,47081-256708,Coatzacoalcos DT,Licensed,Nuño de Balboa,Coatzacoalcos,VER,MX,96550,,GMT-06:00 America/Mexico_City,GMT-06:00,-94.47,18.14
+Starbucks,2095-142848,Forum Coatzacoalcos,Licensed,"Av. Universidad km. 8, Col. Predio Santa Rosa",Coatzacoalcos,VER,MX,96536,,GMT-06:00 America/Mexico_City,GMT-06:00,-94.49,18.14
+Starbucks,29671-254825,Cordoba Centro,Licensed,"Av. 3, Calle 1 No. 104",Cordoba,VER,MX,94500,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.93,18.89
+Starbucks,19037-198124,El Dorado Veracruz,Licensed,"Carretera Boca del rio-Anton Lizardo, Fracc. El Estero, BOCA DEL RIO",Veracruz,VER,MX,94292,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.1,19.09
+Starbucks,48643-264525,Plaza las Americas - Veracruz,Licensed,"Av. Las Americas S/N, Blvd. Ruiz Cortines",Veracruz,VER,MX,94298,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.11,19.14
+Starbucks,15322-160026,Costa de Oro,Licensed,"Av Ruiz Cortinez 3, 289, esq. Calle Girasol",Veracruz,VER,MX,94298,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.11,19.15
+Starbucks,26298-244256,Nuevo Veracruz,Licensed,"Circuito Nvo. Veracruz macrolote14 #835, Col. Exhacienda Buenavista edo Veracruz",Veracruz,VER,MX,91697,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.23,19.13
+Starbucks,16646-173860,Urban Center Xalapa,Licensed,"Av. Lazaro Cardenas No. 102, Col. Rafael Lucio",Xalapa,VER,MX,52764,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.92,19.56
+Starbucks,22961-226744,Xalapa Animas,Licensed,"Paseo de las Palmas #1, Jardines de las Animas",Xalapa Enriquez,VER,MX,91190,,GMT-06:00 America/Mexico_City,GMT-06:00,-96.87,19.52
+Starbucks,19251-199824,City Center Merida,Licensed,"Calle 30 n. 185, Col. San Ramon Norte",Merida,YUC,MX,,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.62,21.04
+Starbucks,16420-119570,Paseo Montejo,Licensed,"Calle 56 A, Numero 465 x 33 A y 35",Merida,YUC,MX,97000,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.62,20.99
+Starbucks,32249-119595,Plaza Altabrisa,Licensed,"451 de la Calle 7 Fraccionamie Altabrisa, Seccion 26",Merida,YUC,MX,97130,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.58,21.02
+Starbucks,32637-132846,Circuito Colonias,Licensed,Circuito Colonias Avenue & Calle 22,Merida,YUC,MX,97128,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.61,21
+Starbucks,20393-205056,Plaza Jardin Merida,Licensed,"Av. 32 n. 219 por calle 43, Norte",Merida,YUC,MX,97117,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.61,21.03
+Starbucks,32089-119556,Gran Plaza Merida,Licensed,493 Calle 29 x 50 Diag. Gonazlo Guerrero,Merida,YUC,MX,97118,,GMT-06:00 America/Mexico_City,GMT-06:00,-89.63,21.03
+Starbucks,32752-139185,Zacatecas Centro,Licensed,Ave Hidalgo 507-A,Zacatecas,ZAC,MX,98000,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.57,22.78
+Starbucks,17987-184009,Galerias Zacatecas,Licensed,"Col. Antigua Unidad Minera, El Bote, de Ciudad de Argentum, Local No. 156",Zacatecas,ZAC,MX,98040,,GMT-06:00 America/Mexico_City,GMT-06:00,-102.6,22.78
+Starbucks,32575-135724,Garcia Salinas,Licensed,"Blvd Garcia Salinas 311, La Estancia",Zacatecas,ZAC,MX,98097,,GMT-08:00 America/Tijuana,GMT-08:00,-117.01,32.51
